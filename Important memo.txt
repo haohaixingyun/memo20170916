@@ -1,0 +1,2096 @@
+﻿69651332  76895824
+Extrct_Fiscal_DT_Dimnsn  ---> Extrct_Fiscal_DT_Dimnsn
+Extract_SW_Sbscrptn_ID_Acqstn_Lnk
+Extract_L_Rnwl_Trgt --remove
+Extract_L_Rnwl_Trgt_Stage
+
+t5y6u7i8
+
+9.111.96.74   root/1612timz 
+
+X86-Redhat           	--- Hadoop/Hive/HBase/...
+9.111.96.74	master
+9.111.96.75	slvone
+9.111.96.76	slvtwo
+root/.lo98ik, 
+
+xllong /temp4you
+
+9.111.139.77 
+elk/zaq19ol.
+/home/elk/dsdata 
+
+targetload4Q161.7.17CanadaAdj.xls
+
+compass2.rtp.dst.ibm.com
+tbird.rtp.dst.ibm.com ITIM dev_grp
+
+compass3.raleigh.ibm.com
+
+Bluemix Dedicated Dashboard
+https://paasport.w3bmix.ibm.com/#/
+
+http://oa.camelotchina.com/ngoss/BasePackage/logon_redirect?userpower=
+
+db2 -td@ -f C:\workplacebus\business\yunxinghai_Ethan\LES\cgns_02.dp_es_rpt_prod_hist_evolution.sp.sql
+
+DSW_IM_Entitlement_Reporting@wwpdl.vnet.ibm.com
+
+check uc/check usercoll/check prod /custer  --- on Monday especial
+-----------------------------------------------------------
+----on ODS side for prod and customer   ,this one should be done in half hours nomoraly 
+select * from utol.load_log where table_name in ('CUST_DIMNSN UPD','CUST_DIMNSN INS', 'PROD_DIMNSN') order by extrct_date desc ;
+
+---on DSS side  for uc  :
+select * from utol.load_log where table_name  = 'REVN_AND_COST_DTL' order by extrct_date desc ;
+-------------------------------------------------------------
+
+crontab ：
+/dss/dw/latest_cron5min
+/ods/sap/cfg/latest_cron5min
+
+
+Password :
+ods_dbo4 temp0try   q1w2e3r4
+
+swc_im_ops_dsc@kanbanize.com
+
+https://igartctrain02.swg.usma.ibm.com:9443/ccm/web/projects/DSC%20Training
+
+DSC prod 
+https://igartc02.swg.usma.ibm.com/jazz/web/projects/DSC%20PROD#action=com.ibm.team.dashboard.viewDashboard
+
+C:\Users\IBM_ADMIN\Pictures
+http://edu.gmw.cn/2016-06/27/content_20718250.htm
+http://www.w2bc.com/Article/6796
+https://localhost:9043/ibm/console  newpass
+C:\Program Files (x86)\IBM\WebSphere\AppServer\bin>startServer server1 -profileName AppSrv01
+
+=======
+
+Notes://ltsgdb001b/8525691C004D9994/0000035F7480610585255D74006B9E95/5567AED9845DE91985257A470020063C 
+
+Karen
+https://apps.na.collabserv.com/meetings/join?id=9523-4161
+87710226
+Password: dswim
+
+Ruth My son's birthday today   3 月 3 号
+
+ ur(Uncommited Read) 就是俗称“脏读“，在没有提交数据的时候能够读到更新的数据；是最低的隔离级别，并且提供最高的并行性。
+数据仓库：
+统一业务口径 
+
+研究性项目
+目的：利用大数据技术解决传统BI构建报表效率低问题，主要解决Cognos构建Cube效率问题。
+主要工具和技术：Nginx ,Keepalived,Flume,Hadoop,Zookeeper,Hbase,Hive,Sqoop,Java,Python 
+第一阶段：
+实现一个Java web 项目，通过JS SDK 向Hadoop平台传递数据，主要配置了Tengine高可用，高性能，运用Flume将数据导入HDFS
+第二阶段：
+使用Python抓取了链接北京城区二手房信息，讲数据导入到Hive，使用Tableau做简单的报表查询
+第三阶段：
+将DB2中约500W数据的Fact表导入Hive，使用Kylin生成Cube，并将结果存入HBase 中，本阶段还在进行中
+
+
+entmt ord 
+Example for fix production error 
+Notes://ltsgdb001d/85255F51005C7D19/D0F2B18D06625FED8525727A00538040/8B8ED010A93E114A85257FF4001AA7A4 
+Notes://ltsgdb001d/85255F51005C7D19/39747F2065F4AD5685257279005E0CC1/DCBCB48A58C6789D85257F80002CC53B 
+
+Check if run suceess 
+ps -ef | grep ods | grep entmt_ord
+
+
+ how to connect to AHE with DS client on your laptop
+FYI - IIS uat/ps account
+zyibj/newpass
+
+ CAMDB02/CAM/A/Lotus Ltsgdb002e.sby.ibm.com
+ ods                 ltsgdb001b.sby.ibm.com  Server:9.63.11.254  Address:9.63.11.254#53
+ 
+ uid=334(zxmei) gid=1(staff) groups=251(sudoread),257(odsread),293(iis_dswdw),300(app_logs),319(dw_read)
+
+ b01aciappha020
+ DB info 
+ dssraft  ps  ---dssreed --blu db  ---ods   ODSRIB
+ dssreef  uat  ----DSSROOD 
+ dssren   fvt  ----odsroti
+ ods_dev4 dev 
+ odspods  ods prod 
+ dsspage  dss prod  -----dsspad
+ zyibj/timz0801 
+ ods_dev/temp7try
+ zyibj /timz0801 
+ 
+teamRepository=https://igartc02.swg.usma.ibm.com/jazz/
+userId=yunxh@cn.ibm.com
+userName=Xing Hai Yun
+projectAreaName=DSC PROD
+teamAreaPath=/IM/Data Standards
+
+------------------------------------------------------------------
+|
+https://zoom.us/j/108819688 
+------------------------------------------------------------------
+all password dsdb1603
+108819688
+-----------------------------------------------------------------
+Sriram phone :
+000 61 408 515 919 
+01211818#
+-----------------------------------------------------------------------------------
+
+C:\dailywork\CR\2015\XHYN-9VKC4J>db2 reorg table dwdm1.crm_geogphy_dimnsn
+C:\dailywork\CR\2015\XHYN-9VKC4J>db2 runstats on table dwdm1.crm_geogphy_dimnsn with distribution on key columns and indexes all
+
+拨打国际长途 000 加三个零，国内长途 00 ，市内 0
+10:21:56 AM: 前面000 + 011 61408515919 
+10:22:13 AM: 密码01211818 # 
+10:22:54 AM: 000 011 61 408 515 919 # 
+10:23:08 AM: 听到嘟嘟的声音以后按下 
+10:23:14 AM: 01211818 # 
+
+DNS”处分别输入以下2个IP地址 9.0.148.50 和9.0.146.50，
+
+
+Application Name	Source Hostname(s)	DNS Alias	Target Hostname (AHE Alias Public Host Name which is now the local host name as well)	Target IP	Target Cluster Name	Target Cluster IP
+ESB	    swgmq04a.rochny.ibm.com		b01acimq008.ahe.pok.ibm.com	9.57.198.248 	b01acimqha004.ahe.pok.ibm.com	9.57.198.250
+ESB	    swgmq04b.rochny.ibm.com		b01acimq009.ahe.pok.ibm.com	9.57.198.249	b01acimqha004.ahe.pok.ibm.com	9.57.198.250
+SWG ID	swgcl2node1.rochny.ibm.com 	camaro.ahe.pok.ibm.com	b01aciapp070.ahe.pok.ibm.com 	9.57.199.32 	b01aciappha019.ahe.pok.ibm.com	9.57.199.35
+SWG ID	rebel.rochny.ibm.com 	rebel.ahe.pok.ibm.com	b01aciapp072.ahe.pok.ibm.com 	9.57.199.34 	b01aciappha021.ahe.pok.ibm.com	9.57.199.54
+SWG ID	swgcl2node2.rochny.ibm.com 	rambler.ahe.pok.ibm.com	b01aciapp071.ahe.pok.ibm.com 	9.57.199.33 	b01aciappha020.ahe.pok.ibm.com	9.57.199.53
+SWG ID	swgcl1node2.rochny.ibm.com 	pathfinder.ahe.pok.ibm.com	b01acirdb084.ahe.pok.ibm.com	9.57.199.36	b01acirdbha005.ahe.pok.ibm.com	9.57.199.38
+SWG ID	swgcl1node1.rochny.ibm.com 	wrangler.ahe.pok.ibm.com	b01acirdb085.ahe.pok.ibm.com	9.57.199.37	b01acirdbha007.ahe.pok.ibm.com	9.57.199.52
+
+
+zxmei/bids1503
+sudo read on AHE
+Same works for dw_read
+I have 2:
+alias scat='sudo -u odsread cat /ods/temp/junk '
+alias scatd='sudo -u dw_read cat /dss/temp/junk '
+Notes://CAMDB07/8525691C004D9994/0000035F7480610585255D74006B9E95/52830D7B01A3957385257CD3005ECD5B 
+
+
+The Instructions to apply for the account(Suwei)
+Notes://CAMDB02/85257751006DB0D8/344EC4724FC0D110852568250045F248/95D40A421463DFD1852578F50022B54F 
+DSS related Materials of Transition
+Notes://CAMDB02/85257751006DB0D8/344EC4724FC0D110852568250045F248/031D2A9ECDC41E32852578EF001F102A 
+
+Here's steps for your reference, 
+1: start cmd as administrator(right click, select "run as administrator" and then input pwd)
+2: add the line to hosts file on your windows system
+9.57.199.33 b01aciapp071.ahe.pok.ibm.com b01cxhp25034 b01aciapp071  
+3: run in cmd started in step 1
+C:\IBM\InformationServer\ASBNode\bin>UpdateSignerCerts.bat -host b01aciapp071.ahe.pok.ibm.com -port 9080
+
+DataStage Job Compare Tool 
+Notes://CAMDB07/8525691C004D9994/17C79477C5C5DACA852574040059A10F/4C9A8D135493773C85257A8400256E5A 
+
+Batch::SNS_Master_Process
+
+DSS(ODS) Production Jobs:
+Notes://CAMDB07/8525691C004D9994/0000035F7480610585255D74006B9E95/5567AED9845DE91985257A470020063C
+
+http://www.yuyongguanjia.com/yygj/Index
+
+Appliance changes
+Notes://CAMDB02/85257751006DB0D8/344EC4724FC0D110852568250045F248/9E85E7D516DBD11B85257C6200745807 
+https://www.coursera.org/course/datasci
+
+http://9.181.142.226:49516/help/index.jsp?topic=%2Fcom.ibm.spss.statistics.tut%2Fspss%2Ftutorials%2Fintrotut2.htm
+Big question :
+DWDM1.SLASHD_FACT_TEMP
+Please feel free to make additions or modifications to this page. 
+14.1 
+RMS -target fact act  task 200
+Notes://CAMDB07/8525691C004D9994/65553EECB6D4468485256F0000586D5B/BA9882EFC81F814085257C1A000B030E 
+https://www.logostore-globalid.cn/control.asp?go=login
+Cognos  
+https://w3-103.ibm.com/software/xl/download/ticket.do
+CRN0BML
+
+Restart documentation (Second Sunday monthly maintenance support doc )
+only andrea or sriram should update this document
+Notes://CAMDB07/8525691C004D9994/65553EECB6D4468485256F0000586D5B/F9ACA8CCCCB13BCB852576C50078DDDE 
+
+AHE benchmark(from may 20150203)
+Notes://CAMDB07/8525691C004D9994/CB85D162C110AC5E852564CE0051562A/2E8CC74907A128AA85257D78002A368E 
+
+---------------------------------------------------------------------------------------------------------------
+Info from May of meeting
+AT&T TeleConference Code we can use in future meeting
+Below is the AT&T TeleConference Code and Smart-Cloud info we can use for future internal meeting and discussion.
+
+AT&T TeleConference:
+Host Code: 	   46561100
+Participant Code: 	   26973953
+
+NOTE: 
+If you'd like to apply a meeting for your own, please access below link.
+http://conferencecenter.uc.att.com/GAC/IBM/
+
+Smart-cloud:
+https://apps.na.collabserv.com/meetings/join?id=1000-8090 
+
+https://apps.na.collabserv.com/meetings/join?id=9527-2919
+
+LILO Java/WAS Material 
+
+Notes://ltsgdb001b/8525691C004D9994/8E3ED11021D9F3FF8525754E0005CA94/B9D26A0C16D55B6C85257F9A002789BF 
+
+Entitlement interface 
+Notes://ltsgdb001b/8525691C004D9994/0000035F7480610585255D74006B9E95/B37DECEB0B16689585257F9C002BA881 
+
+--------------------------------------------------------------------------------------------------------
+if isNull(xml.EOSDATE) then ''
+else If xml.EOSDATE[4,3]='Jan' then xml.EOSDATE[8,4]+'-01-'+xml.EOSDATE[1,2] 
+else If xml.EOSDATE[4,3]='Feb' then xml.EOSDATE[8,4]+'-02-'+xml.EOSDATE[1,2] 
+else If xml.EOSDATE[4,3]='Mar' then xml.EOSDATE[8,4]+'-03-'+xml.EOSDATE[1,2] 
+else If xml.EOSDATE[4,3]='Apr' then xml.EOSDATE[8,4]+'-04-'+xml.EOSDATE[1,2] 
+else If xml.EOSDATE[4,3]='May' then xml.EOSDATE[8,4]+'-05-'+xml.EOSDATE[1,2] 
+else If xml.EOSDATE[4,3]='Jun' then xml.EOSDATE[8,4]+'-06-'+xml.EOSDATE[1,2] 
+else If xml.EOSDATE[4,3]='Jul' then xml.EOSDATE[8,4]+'-07-'+xml.EOSDATE[1,2] 
+else If xml.EOSDATE[4,3]='Aug' then xml.EOSDATE[8,4]+'-08-'+xml.EOSDATE[1,2] 
+else If xml.EOSDATE[4,3]='Sep' then xml.EOSDATE[8,4]+'-09-'+xml.EOSDATE[1,2] 
+else If xml.EOSDATE[4,3]='Oct' then xml.EOSDATE[8,4]+'-10-'+xml.EOSDATE[1,2] 
+else If xml.EOSDATE[4,3]='Nov' then xml.EOSDATE[8,4]+'-11-'+xml.EOSDATE[1,2] 
+else If xml.EOSDATE[4,3]='Dec' then xml.EOSDATE[8,4]+'-12-'+xml.EOSDATE[1,2] 
+else '' 
+
+
+常用命令：
+1.列出所project
+dsjob -domain eliminator.austin.ibm.com:9080 -user yunxh -password newpass -server eliminator.austin.ibm.com -lprojects
+
+
+2.列出stage
+dsjob -domain xxxxxxx.ibm.com:xxxx -user xxxx -password xxxxx -server CHEVELLE -lstages OnTARGET_AG_DEV LoadCoreAccountToTable_DSSDEBUT
+
+dsjob -domain Eliminator.austin.ibm.com:9080 -server ELIMINATOR.AUSTIN.IBM.COM -lstages OnTARGET_AG_DEV Extract_LSWG_Rep_Clnt_Sum_Hist
+
+
+ELIMINATOR.AUSTIN.IBM.COM
+
+3.列出参数
+dsjob -domain xxxxxxx.ibm.com:xxxx -user xxxx -password xxxxx -server CHEVELLE -lparams OnTARGET_AG_DEV LoadCoreAccountToTable_DSSDEBUT
+
+3.列出参数
+dsjob -domain xxxxxxx.ibm.com:xxxx -user xxxx -password xxxxx -server CHEVELLE -jobinfo OnTARGET_AG_DEV LoadCoreAccountToTable_DSSDEBUT
+
+4.列出所有jobs
+dsjob -domain xxxxxxx.ibm.com:xxxx -user xxxx -password xxxxx -server CHEVELLE -ljobs OnTARGET_AG_DEV 
+
+db2 catalog tcpip node db2deer remote tracker.austin.ibm.com server 60088 
+
+db2 catalog db dss as dssdeer at node db2deer 
+
+truncate table DWDM2.QUOTE_STAT_ALL IMMEDIATE;
+-----------------------------------------------------------------------------------------------------------
+
+DWDM0.L_FISCAL_DT_DIMNSN 
+
+If you want to do the compare, pls execute the shell on camaro.
+
+/home/zhangnb/chk_cmvc/bin_dss/chk_cmvc_SNS.sh -a -r"'SNS_PRODUCTION'" -p .dss_profile 
+
+
+AHE prod :
+1)DS project
+b01aciapp071.ahe.pok.ibm.com:9080
+xygeng/newpass
+B01ACIAPP07/DataWarehouse
+
+compass2
+
+3)Unix host
+b01aciapp070.ahe.pok.ibm.com
+
+
+选择性的失明可以带来意识形态上的自我保护
+
+ls *ddd*| xargs -i cat {}
+ls *0927*| xargs -i cat {}
+ls *0927* | xargs -i mv {} aa.csv
+
+Datastage 
+http://pic.dhe.ibm.com/infocenter/iisinfsv/v8r5/index.jsp
+
+DB2
+topas
+db2 get snapshot for application agented id   
+db2 get snapshot for application 8585272
+top sql
+db2 get snapshot for dynamic sql on testdb
+kwh@ausaix15.gho.boulder.ibm.com@7580
+<<1>>  
+S & S Environments (DB2 and Cognos)Planning for UAT and Deployment ,Link to the Current Environment doc (the master, maintained by Andrea): 
+
+Renewals Project Teamroom Db - S & S Environments (DB2 and Cognos)
+Notes://CAMDB02/85257751006DB0D8/344EC4724FC0D110852568250045F248/5A9A6C600101E57A8525785A00556770 
+<<2>>
+DSW 2013 Release Schedule
+Notes://CAMDB18/85256A990072CF26/7766194D3AC2ABB7852568D900410F40/3E462316D2B08D7785257A140072BEFF 
+
+<<3>>
+DSS related Materials of Transition<Created by Fred and marked inactive>
+Notes://CAMDB02/85257751006DB0D8/344EC4724FC0D110852568250045F248/031D2A9ECDC41E32852578EF001F102A
+Notes://CAMDB02/85257751006DB0D8/344EC4724FC0D110852568250045F248/031D2A9ECDC41E32852578EF001F102A 
+
+<<4>>
+All task list From Fred and Bob and Jeff & Susie ,Timz ,Brian,Nate,Zac ,May  ,Jack ,Ethan
+2015 
+Notes://CAMDB02/85257751006DB0D8/344EC4724FC0D110852568250045F248/B2250F8BD567ED5085257E0C0050F993 
+Notes://CAMDB02/85257751006DB0D8/344EC4724FC0D110852568250045F248/3A6EB421EA19540685257DD6006FDA1B 
+2014
+Notes://CAMDB02/85257751006DB0D8/344EC4724FC0D110852568250045F248/FF9D02C8289B777785257C550053C3D3 
+
+Notes://CAMDB02/85257751006DB0D8/9B03730C11B24C94852565E20060BED0/D04590DA281529D8852578ED000E2E00 
+  
+<<5>>
+apply db: oneTeam  <Future reference: Notes://CAMDB01/8525748B00691EA1/ >
+https://w3-03.ibm.com/finance/access/login.wss
+From Ruth mail: 
+Notes://D23M0037/482579500041EF6E/38D46BF5E8F08834852564B500129B2C/D29EC78905E610DC48257B91005334CE 
+
+<<6>>
+ ITIM
+Old:https://w3.ibm.com/jct01003ws/itim/self/Home.do
+new:https://w3-01.ibm.com/itim/self/Home.do
+how the ITIM to work ,no idea
+
+<<7>>
+S&S Useful Doc Links
+Notes://CAMDB02/85257751006DB0D8/344EC4724FC0D110852568250045F248/7D4F83DA90B3D233852578F0001320DB
+
+<<8>>
+Data warehousing monitor:
+Notes://CAMDB18/8525691C00408019/81CC555D30E2568485257B130055337A/25A04D3615BE6B1985257BC50019F707   <Abandon>
+entmt & entmt_ord
+Notes://ltsgdb001b/8525691C004D9994/0000035F7480610585255D74006B9E95/B37DECEB0B16689585257F9C002BA881 
+
+<<9>> qtr end Link (S&S 2013 Q4 Year-end Production Processing Plan)
+Notes://CAMDB02/85257751006DB0D8/344EC4724FC0D110852568250045F248/BDAD249118DC1A7385257C46008015EE 
+
+<<10>>DSS Production Jobs from BOb before leave 
+Notes://CAMDB07/8525691C004D9994/0000035F7480610585255D74006B9E95/5567AED9845DE91985257A470020063C  <useful>
+
+<<11>> fvt -2 
+Notes://CAMDB18/852575CB004E5AAA//6E9CB770D1EE03CC852576AD006DD342
+
+
+<<>>
+DBA TOOL -- intranet id 
+http://9.119.86.197:8080/dbatools/main 
+
+PRODUCTION SUPPORT\MASTER SUPPORT DOCS	
+
+Notes://CAMDB07/8525691C004D9994/0000035F7480610585255D74006B9E95/5567AED9845DE91985257A470020063C 
+
+Support Doc -- Entitlement support document from Zac 10:52 AM  09/22/2015  : 
+Notes://ltsgdb001b/8525691C004D9994/65553EECB6D4468485256F0000586D5B/AF6167FEBFB50FAD85257A4F000C3DDA 
+
+A document containing all  DB2  connection info
+ Notes://ltsgdb002b/852575CB004E5AAA/FD0156BD5BAAEBDF852576B000570A85/6E9CB770D1EE03CC852576AD006DD342 
+
+AHE server
+b01aciappha020:9080 xygeng/newpass
+
+CURRENT Environments Document
+
+Notes://CAMDB18/852575CB004E5AAA//6E9CB770D1EE03CC852576AD006DD342  
+
+Remote Server name :
+
+compass2.austin.ibm.com
+bids1308,bids1405
+
+Kill ds jobs via command line
+
+ps -eaf| grep -i Populate_Quote_Rpt_Fact
+dstechop 19267664        1   2 21:45:13      -  0:31 phantom DSD.RUN Batch::Populate_Quote_Rpt_Fact 0/50/1/0/0/0/0
+dstechop 19529950 19267664   0 21:51:49      -  0:01 phantom DSD.RUN Populate_Quote_Rpt_Fact. 0/50/1/0/0
+sriramku 29556752 10485760   1 02:37:40  pts/8  0:00 grep -i Populate_Quote_Rpt_Fact
+sudo -u dstechop kill -9 19529950
+
+Hadoop
+
+IP 9.119.86.150
+ID Ethan
+pw   IBM2db012
+
+DSW_IM_Prod_Support 
+
+excise
+http://eliminator.austin.ibm.com:9080/infocenter/index.jsp?topic=/com.ibm.swg.im.iis.ds.design.help.doc/topics/designerwindow.html
+   All start with 'P' is from production. 
+   2013/07/30
+   db2range dw_spt_rel  dssrange   odsracer
+   DB2REEF  dw_uat
+  
+  production ++++========
+   
+ swgcl2node2.rochny.ibm.com
+9:38:16 AM: Xiao Mei Zheng: 或者rambler.rochny.ibm.com
+9:38:25 AM: Xiao Mei Zheng: 是要看Log吗
+9:38:37 AM: Xing Hai Yun: 恩 是的 她说有个mail 没有发出来 
+9:39:37 AM: Xiao Mei Zheng: $ ls -l
+total 16
+-rwxr--r--    1 dsadm    app_logs       1041 Aug 02 2013  How to make a request for get a logs
+-rwxr--r--    1 dsadm    dstage         2633 Feb 10 14:32 HowToRequest
+$ pwd
+/app_logs/LogsOnDemand/Instructions/Developers
+
+9:40:11 AM: Xiao Mei Zheng: 看第一个文件的指导来生成
+9:40:29 AM: Xiao Mei Zheng: Rambler:
+=========
+get log from rambler
+Wait_DBA_Action
+May
+cd /app_logs/LogsOnDemand/Logs/DataWarehouse/Lists
+/app_logs/LogsOnDemand/Logs/DataWarehouse/Detail
+vi Detail.list and/or Summary.list
+Summary.list - for summary logs
+Detail.list - for detailed logs
+
+cd /app_logs/LogsOnDemand/Logs/DataWarehouse
+Run scripts:
+startDetail.sh
+startSummary.sh
+
+Populate_CRM_Geogphy_Dimnsn
+
+Check the result in dir /app_logs/LogsOnDemand/Logs/DataWarehouse/Detail
+                     or /app_logs/LogsOnDemand/Logs/DataWarehouse/Summary
+If the log file(s) has a job_name.generating status you have to wait till it status will be job_name.complete
+
+9:40:40 AM: Xiao Mei Zheng: 这是我的一个简要记录
+9:41:01 AM: Xiao Mei Zheng: 或者要生成那个文件的，我可以现在帮忙
+9:41:12 AM: Xiao Mei Zheng: 你回头有时间再细看  
+   
+  
+   
+Important SQl :
+db2 "import from F:\Workstation\SNS_3.1\CRM_GEOGPHY_DIMNSN_20130416.csv of del  modified by coldel@ replace into shar2.crm_geogphy_dimnsn"
+db2 "import from CRM_GEOGPHY_DIMNSN_20130416.csv of del  modified by coldel@ replace into shar2.crm_geogphy_dimnsn"
+
+replace --先清空表中原有数据 然后insert
+如果只是单纯插入数据用insert 代替 replace   
+ 
+ http://w3.tap.ibm.com/medialibrary/media_set_view?id=32278
+ http://w3.tap.ibm.com/medialibrary/browse
+ 
+ sudo -u dw_read  cat .... dw_read  
++++++++========================================================================================
+S&S Support Document:
+Then main content of link is about Job schedual info for dswdw
+Notes://CAMDB07/8525691C004D9994/17C79477C5C5DACA852574040059A10F/280D4CFBB52DFB5A85257A47000FDD96    
+===============================================================================================
+Did you tell Steven Maloney that we will use DSSRAFT(ODSRIB) as S&S UAT env for Release 3.1?
+For future new columns  defined with  default value ,  we need  make sure we also  define as   NOT NULL .
+http://app.finance.ifeng.com/list/stock_cate.php?c=400121933
+
+Can datastage install windows8.7
+http://www.dsxchange.com/viewtopic.php?p=437563#437563
+===========   
+ 
+ AIX eliminator.austin.ibm.com XS DSW Information Delivery
+ ACCOUNT ID: yunxh 
+ PASSWORD: bids1837 
+
+ 电话的conference功能
+ 先打一个人电话，然后more->confer->再拨打另外一个人电话就可以了-----> join  
+========================================================================================================================================
+DSS related Materials of Transition
+Notes://CAMDB02/85257751006DB0D8/344EC4724FC0D110852568250045F248/031D2A9ECDC41E32852578EF001F102A 
+
+SCM or RTC
+
+Notes://ltsgdb001b/8525691C004D9994/E5427F9BDC17EA338525754E0005F296/16DB3DD7243D843485257E9600730474
+
+#$SYS_CODE#F#$APP_NAME#-:#Initialize_Param.V_PROJ_NAME# on #Initialize_Param.V_HOST_NAME# - #Initialize_Param.V_DB_NAME#: job #Start_Mail.$JobName# failed with status code = #Start_Mail.$JobStatus#
+++++++++=====================================================================================================================================================
+ 
+su linxie /passwd dias1408
+sudo -u dw_oper vi .profile
+find /dss -name '*' | xargs grep '@lotus.com' >/dss/lotuscom.txt
+
+=========================
+function 
+ COALESCE()
+Questions:
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+1>Current we maintain the following process on dss 
+ldw refresh 
+prod dimnsn
+cust dimnsn
+mnt rnwl 
+Geo
+price
+RMS
+cidm
+
+Working messages:
+################################################################################################
+1>
+Please put the code for DSW Release both into DSW Release and S&S Release in future(2013-02-05)
+
+Hi Bob and Ethan,
+As you know, we take care of the changes for DSW as well as S&S, such as prod dimension, cust dimension. 
+So in future, if we make the changes for them, please put the code into DSW related release and S&S release. 
+For example, in DSW Release 13.1, we added 2 columns into product dimension. So we should put the code into DSS_DSW_13.1 and S&S.
+alter_rshr2_prod_dimnsn.tbl
+This way should help us to maintain all changes for our team and keep the correct version in CMVC.
+
+compulsory 
+################################################################################################
+
+Perviate messages:
+################################################################################################
+
+
+
+==================================================================================================
+The validation should include:
+
+1. Verify DDLs / SPs
+2. Verify the data after we populate the data
+3. Other validation, such as to check if the message in mails is correct.
+Hi Hope you enjoy your retirement life and we will miss you,I am Ethan.
+===========================================================
+define a stage variable via Stage Variables in Transformer
+Oconv(@DATE,"D-YMD[4,2,2]"):' ':Oconv(@TIME,"MTS")
+Oconv(@DATE,"D4-YMD[4,2,2]"):' ':Oconv(@TIME,"MTS")
+Oconv(DATE(),"D4-YMD[4,2,2]"):' ':Oconv(@TIME,"MTS")
+上面两个结果是一致的
+D 表日期转换代码
+4 表年份位数，
+-表分隔符，YMD表年月日
+[4,2,2]表位数
+
+2013-01-06 04:24:23
+
+通过TimeDate() 函数 得到的结果是 ：
+04:31:25 06 JAN 2013
+
+db2 "SELECT 'rebind '||replace(substr(pkgschema,1,20)||'.'||substr(pkgname,1,20),' ','') FROM syscat.packages WHERE valid = 'N'"
+
+============================================================
+Hi - DSSRAFT is being taken by  CDL DBAs  Friday (CDL time)   
+in order to set up RAFT to become  the DSW Production Support  
+(DssReef  will remain as UAT for DSW Rel 13.3).
+
+I talked over a plan with Steve Maloney.We can use DssRange now. 
+
+1) We are setting up RANGE for UAT ..  Current SNS testing data is going to get copied from RAFT into RANGE asap.   You can still use RAFT until RANGE is ready.
+2) When the copy into RANGE is done, we will  change Cognos UAT  (cogtest1) to point to DSSRANGE.  I will let you know when this is done.
+3) This week's copy from Production will copy data down into RANGE   .  This finishes  early Friday AM.   Then as usual,  we will refresh SNS and Quote Rpt fact, but this time on RANGE.
+4) MTP - The  S&S  Release 3.1 MTP simulation will be run on  DSSRAFT (since it will be a recent restore from Production).
+
+
+CMVC Check
+
+Notes://CAMDB07/8525691C004D9994/337CF1BB52269D5D85256297004E801D/18672249284755308525764E006DCAA3 
+============================================================
+
+ACRONYMS
+CRM – Customer Relationship Management
+CCMS - Central Customer Master System
+MAP – Market Alignment Program
+FRS - Field Resource Solution
+TOP – Territory Optimization Program
+
+
+echo /ods/fncl_uat/prod_dimnsn/bin | cut -d/ -f1-3 | sed 's/fncl/sap/'
+
+sudo -u dw_oper crontab -e
+sudo -u odsoper crontab -e | grep /fncl_fvt/prod_dimnsn/bin
+sudo -u odsoper crontab -l | grep /fncl_uat/prod_dimnsn/bin
+sudo -u odsoper crontab -l | grep /fncl_fvt/prod_dimnsn/bin
+
+
+cat /dss/dw/latest_cron5min
+or check on db 
+Notes://ltsgdb001e/85257E61004674BF/BCCEF493179F37D785257E620051AE24 
+
+sudo -u odsoper crontab -l | grep usercoll
+sudo -u odsoper cat prd.sh
+
+58 16 17 12 * (umask 022 ;/ods/fncl_uat/prod_dimnsn/bin/prd.sh 1> /ods/fncl_uat/prod_dimnsn/logs/log_prd_`date '+\%Y\%m\%d\%H\%M'|tr -d '\\\'` 2>&1)
+33 20 06 02 * (umask 022 ;/ods/fncl_uat/prod_dimnsn/bin/prd.sh -a '2012-07-12-04.35.19.739113'  -t '2012-01-25-07.37.57.655920'  > /ods/fncl_uat/prod_dimnsn/logs/log_prd_`date '+\%Y\%m\%d\%H\%M'|tr -d '\\\'` 2>&1)
+10 13 19 08 * (umask 022 ;/ods/fncl_uat/prod_dimnsn/bin/prd.sh > /ods/fncl_uat/prod_dimnsn/logs/log_prd_`date '+\%Y\%m\%d\%H\%M'|tr -d '\\\'` 2>&1)
+#30 01 14 11 * (umask 022 ;/ods/fncl_uat/prod_dimnsn/bin/prd.sh > /ods/fncl_uat/prod_dimnsn/logs/log_prd_`date '+\%Y\%m\%d\%H\%M'|tr -d '\\\'` 2>&1)
+00 05 * * * (umask 022 ;/ods/fncl_uat/prod_dimnsn/bin/prd.sh > /ods/fncl_uat/prod_dimnsn/logs/log_prd_`date '+\%Y\%m\%d\%H\%M'|tr -d '\\\'` 2>&1)
+#43 14 * * * (umask 022 ;/ods/fncl_uat/prod_dimnsn/bin/prd.sh > /ods/fncl_uat/prod_dimnsn/logs/log_prd_`date '+\%Y\%m\%d\%H\%M'|tr -d '\\\'` 2>&1)
+
+ctrct_dimnsn.sh* 
+
+user: dwoper
+current timestamp (umask 022 ;/dss/dw/refresh/scripts/weekly_ldw_refresh.sh > /dss/dw/refresh/logs/weekly_ldw_refresh_`date +'\%Y\%m\%d\%H\%M' | tr -d '\\\'`.log 2>&1)
+
+========================================================================
+
+DBA copy tables Crontab
+10 04 29 01 * /job_cntl/com/dba/load_db2_table /db2_src/cfg/iso_geo.cfg /db2_src/cfg/rms_mail_list > /db2_src/db2clnt8/log/load_db2_table.iso_geo.log 2>&1
+10 04 29 01 * /job_cntl/com/dba/load_db2_table /db2_src/cfg/ctrct_dim1.cfg /db2_src/cfg/ctrct_dim_mail_list > /db2_src/db2clnt8/log/load_db2_table.ctrct_dim1.log 2>&1
+
+0 14 * * 0 /job_cntl/com/dba/load_db2_table /db2_src/cfg/wkly_dw_refresh.cfg /db2_src/cfg/ctrct_dim_mail_list > /db2_src/db2clnt8/log/load_db2_table.wkly_dw_refresh.log 2>&1
+#30 05 * * 1,3 /job_cntl/com/dba/load_db2_table /db2_src/cfg/dly_rms1.cfg /db2_src/cfg/rms_mail_list > /db2_src/db2clnt8/log/load_db2_table.dly_rms1.log 2>&1
+30 03 * * * /job_cntl/com/dba/load_db2_table /db2_src/cfg/dly_quote1.cfg /db2_src/cfg/quote_mail_list /job_cntl/temp_files/updbrioquote > /db2_src/db2clnt8/log/load_db2_table.dly_quote1.log 2>&1
+30 21 * * * /job_cntl/com/dba/load_db2_table /db2_src/cfg/iso_geo.cfg /db2_src/cfg/rms_mail_list > /db2_src/db2clnt8/log/load_db2_table.iso_geo.log 2>&1
+
+Notes://CAMDB02/85257751006DB0D8/344EC4724FC0D110852568250045F248/031D2A9ECDC41E32852578EF001F102A 
+=========================================================================================================================================================
+AHE migration HA test plan
+Notes://CAMDB18/85256A990072CF26/7766194D3AC2ABB7852568D900410F40/128523F7368AA54D85257D03004A346A 
+HA testing S&S
+Notes://CAMDB02/85257751006DB0D8/344EC4724FC0D110852568250045F248/D874A1842301574085257D3A006B2F89 
+MTP Plan
+Notes://CAMDB18/85256A990072CF26/79911BE6D0CD5EA685256DF90041CAF0/779E0A1057CFC18C85257D2C0006F86B 
++++++++++++++++++++++++++++++++++++++
+
+db2 load 一定要记得加 nonrecoverable 参数 
+
+AT&T
+
+DIAS1504
+
+Done file from IBMF
+
+http://w3.ibm.com/software/xl/download/ticket.do
+
+====================================================================
+http://218.205.194.36/userLoginActionloadingMain.action
+http://te.camelotchina.com/;jsessionid=6330E85874EA6CEDAC79C8ABD46E5496
+10104991
+10104991
+
+
+Notes://CAMDB07/8525691C004D9994/17C79477C5C5DACA852574040059A10F/E2DEFDB461BC484C85257A76002889A0 
+Pretty good
+Notes://CAMDB02/85257751006DB0D8/344EC4724FC0D110852568250045F248/2AD4DD91A09E9AAA85257A9F001F18AE 
+All task from Fred and Bob
+Notes://CAMDB02/85257751006DB0D8/9B03730C11B24C94852565E20060BED0/D04590DA281529D8852578ED000E2E00
+
+sudo -u odsoper cat prd.sh*
+
+(zhangnb/ftpass4on)(uat and ps)
+
+Wed Nov 14 01:09:45 EST 2012
+13 14 03 10 * (umask 022 ;/ods/fncl_uat/prod_dimnsn/bin/prd.sh > /ods/fncl_uat/prod_dimnsn/logs/log_prd_`date '+\%Y\%m\%d\%H\%M'|tr -d '\\\'` 2>&1)
+33 20 06 02 * (umask 022 ;/ods/fncl_uat/prod_dimnsn/bin/prd.sh -a '2012-07-12-04.35.19.739113'  -t '2012-01-25-07.37.57.655920'  > /ods/fncl_uat/prod_dimnsn/logs/log_prd_`date '+\%Y\%m\%d\%H\%M'|tr -d '\\\'` 2>&1)
+10 13 19 08 * (umask 022 ;/ods/fncl_uat/prod_dimnsn/bin/prd.sh > /ods/fncl_uat/prod_dimnsn/logs/log_prd_`date '+\%Y\%m\%d\%H\%M'|tr -d '\\\'` 2>&1)
+30 01 14 11 * (umask 022 ;/ods/fncl_uat/prod_dimnsn/bin/prd.sh > /ods/fncl_uat/prod_dimnsn/logs/log_prd_`date '+\%Y\%m\%d\%H\%M'|tr -d '\\\'` 2>&1)
+#43 14 * * * (umask 022 ;/ods/fncl_uat/prod_dimnsn/bin/prd.sh > /ods/fncl_uat/prod_dimnsn/logs/log_prd_`date '+\%Y\%m\%d\%H\%M'|tr -d '\\\'` 2>&1)
+
+
+on pathfinder DBA crontab
+
+1.Right Time Refeed Service (provide a tool to DSW-ODS to request data re-feeds from DSW-SAP for Right Time and Entitlements data. )
+https://w3-connections.ibm.com/wikis/home?lang=en-us#!/wiki/W28148e9b0108_4b78_9cb5_bd797ef18128/page/Right%20Time%20Refeed%20Service
+
+
+05 04 23 10 * (umask 022 ;/ods/fncl_fvt/prod_dimnsn/bin/prd.sh > /ods/fncl_fvt/prod_dimnsn/logs/log_prd_`date '+\%Y\%m\%d\%H\%M'|tr -d '\\\'` 2>&1)
+
+ods uat is now odsrum   2014/6/3
+
+net start instancename
+
+net stop instancename
+
+db2 list active databases
+db2 connect reset
+
+create index indexname on table(collumn) allow reverse scans 
+
+db2 get snapshot for locks on database name
+db2 list applications
+db2 list applications show detail
+
+db2 force application all/(hander id)
+db2 terminate
+db2 list tables
+db2 describe table tablename
+
+
+db2 terminate
+sp log de output address: 
+/tracker_sp_output/db2raft/refresh/ 
+zhangnb
+
+su zhangnb
+sudo -u odsoper cat cust.ksh
+
+sudo -u dw_oper crontab -e
+
+sudo -u spr_oper crontab -l | grep uat/c
+
+fncl_logs/
+
+CMD
+diff 2.txt 12.txt -m > difffiles.log
+
+diff -r F:/Workstation\shell_file_from_server\server   F:\Workstation\shell_file_from_server\CMVC\dss\fncl\usercoll\bin   > F:\Workstation\shell_file_from_server\differ.txt
+
+COALESCE ()	
+
+Phone:	
+19999
+	*826506840
+	*4008210751  
+China Toll free	
+    *8008200027  
+Ruth 7600963#  run conf  9.76.69.179 
+Ruth 7600963#  run conf  9.76.69.179 
+Zac  47126483#  
+Shan 8162500#
+Skype
+https://apps.na.collabserv.com/meetings/join?id=4786-4687
+psd fdwim
+From May cellphone  4008210751/8008200027(free电信)
+
+
+May 
+0013571983948
+4675 1629#
+
+60410470  云小东
+
+Eliminator:
+
+HOSTNAME:   Eliminator.austin.ibm.com 
+ACCOUNT ID: yunxh 
+PASSWORD:   bids1837 
+
+***********************************************************
+
+**********************************************************
+
+Zoe 程淑媛 徐冰 肖莉娟 xiaoljbj@cn.ibm.com  肖莉娟 
+Mandy zhangxiyao
+**********************************************************
+For DBA work in APAC business hours, please contact DIAS DBA team:
+Cheng Rui CR Wang/China/Contr/IBM 
+Fei CD Zha/China/IBM 
+Guang Hong GH Yu/China/IBM 
+Wen Cheng Ji/China/IBM
+Xiang Ping Huang/China/IBM 
+
+
+
+For Datastage/IIS admin requests please check with -
+Sriram Kumar/Australia/IBM, 
+Cheng Rui CR Wang/China/Contr/IBM
+Xiang Ping Huang/China/IBM  
+Andrei Nevar/Westford/Contr/IBM
+Alena Ivanets/Westford/Contr/IBM
+Andrea Powers/Cambridge/IBM
+
+*************************************************************(*****
+
+
+chevelle:
+
+/opt/IBM/InformationServer/Server/Projects/dswdw_fvt/dw_cfg/mail
+/opt/IBM/InformationServer/Server/Projects/dswdw_dev/dw_cfg/mail
+登陆进去后用sudo -u odsoper crontab -l 
+ods
+sudo -u dw_oper crontab -e
+dw_oper
+
+linxie/dias1506
+q1w2e3r4  
+
+eliminator.austin.ibm.com
+
+AT&T TeleConference
+
+Toll Free Number: 800-820-0027
+Caller Paid Number: 400-821-0751
+CHINA Toll-Free: 4001-201-478 
+Tie Line - For Non-USA Use Only: 650-6840
+ITN - For Non-USA Use Only: 2650-6840
+China Caller Paid: (400)821-0751 (PREFERRED ACCESS)
+China Toll-Free: (800)820-0027 (NETCOM LIMITED ACCESS)
+China Toll-Free: (800)820-0027 (TELECOM LIMITED ACCESS)
+USA Caller Paid: 215-861-6239	 
+USA Toll-Free: 888-426-6840
+
+Participant Code:  17056614
+
+====================================================
+db2page
+/dss_sp_output/db2page/refresh
+/dss/dw/refresh/logs/20130202/refresh_ldw_dm.sh.log
+
+
+#!/usr/bin/ksh
+
+http://datastage4u.wordpress.com/
+**************************************************************************
+0122
+Wyse
+secrity password:0022  lock
+
+invalidate sps
+
+select ' '||rtrim(r.routineschema)||'.'||rtrim(r.routinename)||' ( '||'P'||substr(char(r.lib_id+10000000),2)||' )' 
+from syscat.routines r where r.routinetype = 'P' and exists( select 1 from syscat.packages 
+where pkgschema = r.routineschema and pkgname = 'P'||substr(char(r.lib_id+10000000),2) and valid !='Y') 
+order by rtrim(r.routineschema)||'.'||rtrim(r.routinename)
+
+DECLARE GLOBAL TEMPORARY TABLE SESSION.L_QUOTE_RENWL_FACT_1(Columns)
+IN glbl_temp_01 ON COMMIT PRESERVE ROWS
+NOT LOGGED ;
+
+但是最后这个表是需要删除的 drop table SESSION.L_QUOTE_RENWL_FACT_1；
+
+=`echo $WARN_RESULT|awk -v ix=$index '{print substr("'$WARN_RESULT'",0,ix-1)}'`
+=`echo $temp_geo_cntry_code|awk -v ix=$index '{print substr("'$temp_geo_cntry_code'",1,ix-1)}'`
+
+=====================================================================================================================================================================================================================
+ss_support@lotus.com,ss_support@lotus.com
+
+ss_validators@lotus.com, ss_support@lotus.com
+++++++++++++++++==============================================================
+Please explorer /commander_uat_sp_output  on chevelle to check SP result on db2rum (new UAT);
+check /tracker_uat_sp_output on chevelle to read SP results of db2reef/db2ringo/db2rule.
+
++++++++++++++++++++++++++++==================================================================
+用 java 实现通过ip通信，
+http://www.wselearning.com/index-english-learning.aspx?topicid=6
+
+yunxh@cn.ibm.com
+111111
+
+
+eliminator.austin.ibm.com:9080    9.3.51.10
+
+chevelle.austin.ibm.com   9.3.51.109
+
+Leda, Zhang Lei (张蕾)  leiz@cn.ibm.com 53758
+Jason,Zhu Dan yang (朱丹阳) zhudany@cn.ibm.com 52756
+Jeffrey,Huang Xiang Ping (黄湘平)  xphuang@cn.ibm.com 52461 
+
+===========================================================
+Normally, if we have some logic changes in our jobs, the test case like this is not enough. 
+We should have validation SQLs or some cases to prove the jobs work as what we expect. 
+===========================================================
+IBM DSSRUG 
+
+IBM DSSRAFT BUFFERPOOLS
+CREATE BUFFERPOOL "DATA32K1" IMMEDIATE ALL DBPARTITIONNUMS SIZE 50 NUMBLOCKPAGES 0 PAGESIZE 32K;
+CREATE BUFFERPOOL "DATA8K01  IMMEDIATE ALL DBPARTITIONNUMS SIZE 45000 NUMBLOCKPAGES 0 PAGESIZE 8K;
+CREATE BUFFERPOOL "INDX8K01" IMMEDIATE ALL DBPARTITIONNUMS SIZE 25000 NUMBLOCKPAGES 0 PAGESIZE 8K;
+
+CREEATE 
+
+
+COMMENT ON TABLESPACE TBSP_INDEX1 IS ’tablespace to hold index data’;
+
+====================================================================================================================================================================
+
+Table info :
+
+VRR fact (DWDM2.MAINTNC_EXPIRD_RENWD_QTY_FACT)
+VRR Expired Fact (DWDM1.MAINTNC_EXPIRD_QTY)
+VRR Renewed Fact (DWDM1.MAINTNC_RENWD_QTY)
+Sales Order table 
+
+
+
+* Before is the existing data.
+* After is the new data.
+Delete code = 2 
+Edit Code = 3
+Insert code = 1
+
+
+I have exactly the same problem. Did you find the solution to this problem? Thanks in advance.
+
+Change_Capture: When checking operator: Defaulting "DEC_TRGT_REFRESH_DATE" in transfer from "beforeRec" to "outputRec".
+dwdm1_trgt_refresh_date_insrt_01: When checking operator: A sequential operator cannot preserve the partitioning
+ of the parallel data set on input port 0.
+
+
+0 22 * * 0-5 /job_cntl/com/dba/load_db2_table /db2_src/cfg/ctrct_dim.db2reef.cfg /db2_src/cfg/ctrct_dim_mail_list > /db2_src/db2clnt8/log/load_db2_table.ctrct_dim.db2reef.log 2>&1
+0 19 * * * /job_cntl/com/dba/load_db2_table /db2_src/cfg/dly_quote1.db2reef.cfg /db2_src/cfg/quote_mail_list /job_cntl/temp_files/updbrioquote_uat > /db2_src/db2clnt8/log/load_db2_table.dly_quote1.db2reef.log 2>&1
+5 11 * * 0 /job_cntl/com/dba/load_db2_table /db2_src/cfg/wkly_dw_refresh.db2reef.cfg /db2_src/db2clnt8/com/mail_bz > /db2_src/db2clnt8/log/load_db2_table.wkly_dw_refresh.db2reef.log 2>&1
+00 15 * * 0 /job_cntl/com/dba/load_db2_table /db2_src/cfg/wkly_dw_refresh.uat.cfg /db2_src/db2clnt8/com/mail_bz > /db2_src/db2clnt8/log/load_db2_table.wkly_dw_refresh.uat.log 2>&1
+0 23 * * 0-5 /job_cntl/com/dba/load_db2_table /db2_src/cfg/ctrct_dim.spt.cfg /db2_src/cfg/ctrct_dim_mail_list > /db2_src/db2clnt8/log/load_db2_table.ctrct_dim.spt.log 2>&1
+0 17 * * * /job_cntl/com/dba/load_db2_table /db2_src/cfg/dly_quote1.spt.cfg /db2_src/cfg/quote_mail_list /job_cntl/temp_files/updbrioquote_spt > /db2_src/db2clnt8/log/load_db2_table.dly_quote1.spt.log 2>&1
+5 12 * * 0 /job_cntl/com/dba/load_db2_table /db2_src/cfg/wkly_dw_refresh.spt.cfg /db2_src/db2clnt8/com/mail_bz > /db2_src/db2clnt8/log/load_db2_table.wkly_dw_refresh.wkly_dw_refresh.spt.log 2>&1
+45 1 * * * /job_cntl/com/dba/load_db2_table /db2_src/cfg/dwdm1_geogphy_dimnsn.spt.cfg /db2_src/cfg/rms_mail_list > /db2_src/db2clnt8/log/load_db2_table.dwdm1_geogphy_dimnsn.spt.log 2>&1
+05 12 22 8 * /job_cntl/com/dba/load_db2_table /db2_src/cfg/wkly_dw_refresh.spt.cfg /db2_src/db2clnt8/com/mail_bz > /db2_src/db2clnt8/log/load_db2_table.wkly_dw_refresh.wkly_dw_refresh.spt.log 2>&1
+50 23 * * 0-5 /job_cntl/com/dba/load_db2_table /db2_src/cfg/ctrct_dim.fvt.cfg /db2_src/cfg/ctrct_dim_mail_list > /db2_src/db2clnt8/log/load_db2_table.ctrct_dim.fvt.log 2>&1
+50 8 * * * /job_cntl/com/dba/load_db2_table /db2_src/cfg/dly_quote1.fvt.cfg /db2_src/cfg/quote_mail_list /job_cntl/temp_files/updbrioquote_fvt > /db2_src/db2clnt8/log/load_db2_table.dly_quote1.fvt.log 2>&1
+50 12 * * 0 /job_cntl/com/dba/load_db2_table /db2_src/cfg/wkly_dw_refresh.fvt.cfg /db2_src/db2clnt8/com/mail_bz > /db2_src/db2clnt8/log/load_db2_table.wkly_dw_refresh.wkly_dw_refresh.fvt.log 2>&1
+
+cd 
+
+
+
+========================================================================================================================================================================
+
+
+
+根据上面的信息创建表空间和索引空间
+
+db2 export and import (db2move)
+
+? sql1204
+
+
+Db2 性能和操作系统（os）、锁、缓冲池、索引等参数，以及sql的写法都有很大关系
+
+List db2 实例
+db2ilist
+DB2 数据库的备份和恢复(db2 backup and restore)
+
+3、增量备份的两种实现方式
+
+　　A、增量备份(也称累计备份)
+
+　　B、delta备份
+
+　　说明：这两种备份方式的严格定义如下， 增量备份是自最近成功的完全备份以来所有更改的数据的备份。 delta 备份则是上一次成功的完全、增量或 delta 备份以后所做更改的数据的备份。
+
+　　这里请读者们仔细的看上面两个增量备份方式的定义，注意这两种备份方式的细微差别。这里我们举一个例子来说明。
+
+　　假设有一个数据库，它每天都有部分数据在发生变化。
+    我们星期一晚上对该数据库做了一次完全备份，
+	星期二晚上对该数据库做了一次增量备份A(注：这里的增量备份是指累计备份，下同)，
+	星期三晚上又做了一次增量备份B，
+	星期四则做了一次delta 备份。
+
+　　那么，我们可以得出以下结论：
+
+　　星期一的数据库备份包含了所有的数据。
+
+　　星期二没有变动过的数据没有发生备份，在星期二变动过的数据会备份，并且备份到增量备份A中。
+
+　　星期三的备份中含有自星期一完全备份以来发生过变动的所有数据，包含了星期二和星期三发生过变动的数据。显然，增量备份A 被 增量备份 B 包含。
+
+　　星期四做的是delta备份，注意，它会也只会备份自星期三备份之后变动过的数据。
+
+
+
+4.3 DB2 数据库增量备份与恢复实验
+
+　　脚本清单
+
+　
+　　--修改数据库参数 TrackMod ，使之支持数据库进行增量备份
+　　db2 update db cfg using TrackMod YES
+　　--更改参数后必须完全离线备份数据库(脱机，备份时间戳记为 20071121153818)
+　　db2 backup db TestDB to D:\DB2_Train
+　　--开始增量备份(脱机，备份时间戳记为 20071121154006)
+　　db2 backup db TestDB incremental to D:\DB2_Train
+　　db2 restore db TestDB from D:\DB2_Train taken at 20071121153818
+　　--还原至增量离线备份状态
+　　db2 restore db TestDB incremental automatic from D:\DB2_Train taken at 20071121154006
+　　--注意：上述语句中，有一个 automatic ，它表示无论有多少个增量备份，系统将全自动检索恢复数据库的顺序并自动恢复数据库。如果没有 automatic ，则需要多次手动恢复数据库，很麻烦而且容易出错。
+　　--Step3：根据该数据库完全备份还原数据库
+　　db2 restore db TestDB from D:\DB2_Train taken at 20071121152940
+　　--还原数据库后查询测试表数据检验数据是否恢复成功
+
+4.4 DB2 数据库联机机备份与恢复实验
+    (get db cfg for dlv ;Path to log files ; First active log file)
+
+　　说明：联机备份数据库可以使数据库在备份的同时仍然保持在可用状态。要让数据库支持联机备份，必须更改数据库的日志归档方式。
+          在脱机备份模式下，数据库 采用循环日志方式记录数据库日志，在联机备份模式下，数据库则采用归档日志的方式备份数据库日志。
+		  另外，对于联机备份的数据库来说，活动日志和归档日志就 很重要了，一定要经常备份、保存。
+    修改数据库参数 TrackMod ，使之支持数据库进行增量备
+　　db2 update db cfg for dlv using TrackMod YES
+    启用日志归档模式
+    db2 update db cfg for test using LOGRETAIN ON
+    在线全备份
+    1)db2 backup db test online to /db2/data/backup/ include logs
+	释放log 日志到目录  /db2/data/logs/
+    db2 RESTORE db test FROM /db2/data/backup taken at 20100514001917 LOGTARGET /db2/data/logs/
+    db2 "rollforward db test to end of logs and stop overflow log path(/db2/data/logs/)"
+    
+	2)db2 backup db test online to /db2/data/backup/
+    db2 RESTORE db test FROM /db2/data/backup taken at 20100514001917 
+    db2 "rollforward db test to end of logs and stop overflow log path(/归档日志目录/)"
+    --重要，此前一定要将活动日志文件备份至另一个路径，保存好，本例中，活动日志保存在 C:\db2admin 下。
+	3)在线增量
+	backup backup db test online incremental to /db2/data/backup/
+	
+	db2 restore db TestDB incremental automatic from D:\DB2_Train taken at 20071121152922
+	
+	db2 ROLLFORWARD DATABASE TESTDB TO END OF LOGS AND COMPLETE OVERFLOW LOG PATH ("C:\db2admin")
+	
+	==============================================================================================
+	
+	如果平凡，则廉价不可避免
+	只有提高自己的附加值，做更高等级的工作，才能达到自己的人生价值。
+	===============================================================================================
+	
+不同库名数据的恢复
+
+db2 restore database testdb from into test_new_db
+
+这个指令可以把 testdb 的数据恢复到 test_new_db 中
+
+
+　
+================
+
+kwh@ausaix15.gho.boulder.ibm.com@7580
+
+
+
+
+
+===========================================================
+
+stored procedure and package and table relationship  存储过程用了哪些表
+
+select d.PROCNAME,a.ROUTINENAME,b.PKGNAME,c.BNAME from SYSCAT.PROCEDURES d ,
+SYSCAT.ROUTINES a,SYSCAT.PACKAGES b,SYSCAT.PACKAGEDEP c 
+where d.SPECIFICNAME=a.SPECIFICNAME and b.PKGNAME='P'||substr(char(a.LIB_ID+10000000),2) 
+and b.PKGNAME=c.PKGNAME
+AND D.PROCNAME='DP_INSRT_MAINTRENWLACTLFACT';
+/\
+ /
+select d.PROCNAME,a.ROUTINENAME,b.PKGNAME,c.BNAME from SYSCAT.PROCEDURES d 
+left join SYSCAT.ROUTINES a   on d.SPECIFICNAME=a.SPECIFICNAME  
+left join SYSCAT.PACKAGES b   on b.PKGNAME='P'||substr(char(a.LIB_ID+10000000),2)
+left join SYSCAT.PACKAGEDEP c on  b.PKGNAME=c.PKGNAME
+where  D.PROCNAME='DP_INSRT_MAINT_RENWL_FACT_TRGT';
+
+1)
+Export and Import Table data
+db2 connect to dssrug user --using **
+Export to myname.del of del select * from myname
+Import from aaa.del of del messages msg.out insert into product
+2)
+alter table DWDM1.ACQSTN_DIMNSN  activate not logged initially with empty table
+3)
+Copy whole table data from one database to other database for instance :A => B[need a high level of priv]
+db2 connect to B user B username using B passwd
+db2 connect to EDW USER ADD USING DEE
+db2 "DECLARE C1 CURSOR DATABASE jsctedw USER edwdba USING dba FOR select * from BML.PD_INST_MONTHLY_INFO where city_id='M' and clndr_dt_id=201109 with ur"
+db2 "LOAD FROM C1 OF CURSOR restart INTO BML.PD_INST_MONTHLY_INFO NONRECOVERABLE "
+db2 terminate
+db2 "DECLARE C1 CURSOR DATABASE dssraft USER zhangnb USING bids1302 FOR select * from RSHR2.PROD_DIMNSN with ur"
+db2 LOAD FROM C1 OF CURSOR restart INTO  RSHR2.PROD_DIMNSN 
+connect to dssdebut user ods_dbo4 using dias1301
+4)
+create table DWDM1.ACQSTN_DIMNSN_TEst like DWDM1.ACQSTN_DIMNSN   IN "SODS2_DATA_01" [table space is needed]
+
+5)
+stored procedure and package and table relationship
+
+select d.PROCNAME,a.ROUTINENAME,b.PKGNAME,c.BNAME from SYSCAT.PROCEDURES d ,
+SYSCAT.ROUTINES a,SYSCAT.PACKAGES b,SYSCAT.PACKAGEDEP c 
+where d.SPECIFICNAME=a.SPECIFICNAME and b.PKGNAME='P'||substr(char(a.LIB_ID+10000000),2) 
+and b.PKGNAME=c.PKGNAME
+AND D.PROCNAME='DP_INSRT_MAINTRENWLACTLFACT';
+
+select d.PROCNAME,a.ROUTINENAME,b.PKGNAME,c.BNAME from SYSCAT.PROCEDURES d 
+left join SYSCAT.ROUTINES a   on d.SPECIFICNAME=a.SPECIFICNAME  
+left join SYSCAT.PACKAGES b   on b.PKGNAME='P'||substr(char(a.LIB_ID+10000000),2)
+left join SYSCAT.PACKAGEDEP c on  b.PKGNAME=c.PKGNAME
+where  D.PROCNAME='DP_INSRT_MAINT_RENWL_FACT_TRGT';
+
+Cursor :
+
+declare cusror_demo cursor with hold for select coulumn1,column2 from table where ;
+with hold: 如果没有加with hold 选项,在Commit和Rollback时,该游标将被关闭。
+如果循环内有commit或rollback 而要保持该cursor不被关闭，只能使用这种方式。 
+
+
+DB2 sql error:
+sql1477n:
+For table table-name an object object-id in table space tbspace-id cannot be accessed
+for this need to be re-create it
+
+sql0968:
+The file system is full
+The message indicates that there is not enough storage available in the database heap to 
+process the statement ,this error message is a result of running out of space in the transaction
+log
+
+飞象网
+Integration
+https://ibm-cio.slack.com/messages/sales-and-marketing/
+*********************************************************
+CIO 如果不能了解企业的优势 弱势  
+不能为CEO 带来很好的有价值的决策 
+不能为企业提高核心竞争力 
+挖掘潜在用户群 提高销量  给20W年薪  老板都觉得的高了
+搞企业的 需要知道理解清楚企业的发展方向，企业存在的优势 与弱势，
+能够为企业的发展提供有价值的参考决策方针
+想法设法提高企业的核心竞争力，improve the power of the team
+挖掘潜在的用户群 ，提升业绩
+*********************************************************
+克莱特工时系统：
+218.205.194.36
+10104991
+您的身份证号
+111111、123
+http://oa.camelotchina.com/ngoss/
+**********************************************************************
+IIS8.7
+http://publib.boulder.ibm.com/infocenter/iisinfsv/v8r7/index.jsp
+
+**********************************************************************
+1) Create a table one column increment auto
+CREATE TABLE ODS_DBO4.TEST_SP_OUTPUT_DLV (
+  ID1	DECIMAL(12,4)	NOT NULL	DEFAULT NULL,
+  ID3	DECIMAL(12,0) GENERATED ALWAYS AS IDENTITY (START WITH 1, INCREMENT BY 1 ) primary key not null,
+  ID2	DECIMAL(12,4) generated always as(ID1+ID3)
+) 
+  IN DWDM1_DATA_01;
+  采用自增数据表的组建
+  很好的控制了数据库索引的完整性和效率
+  设计数据库 表 视图 字段的命名规范和设计约束 存储过程的编码规范
+  但个人的经验是尽量不使用外键约束而通过程序区控制数据表间的参考完整性。
+  索引是从数据库中获取数据的最高效方式之一。95%的数据库性能问题都可以采用索引技术得到解决--合理
+
+========================================================== 
+把阴霾抛在遥远的星辰之外;把37度半的温柔送入你的心房。
+==========================================================
+datastage  优化策略 -提高运行效率
+1> 加快Job的逻辑处理速度，灵活运用不同的Stage,或者走不同的处理流程，对整个Job的处理速度的
+提升有较显著的效果。尽可能共享数据源
+
+free ebooks
+https://www.ibm.com/developerworks/wikis/display/db2oncampus/FREE+eBooks
+==========================================================
+It's the right season and time to solve my personal problem about feelings,so where are you ?
+A:
+aspire to
+expectations
+S:
+Signposts 
+strive to (hard work)
+
+分析某个字段 是否被其余的表引用：
+select * from syscat.columns c
+where c.COLNAME = 'QUOTE_RENWL_FACT_ID'
+with ur;
+select * from syscat.tables where tabschema = 'SYSCAT'；
+
+SQL0575N
+
+
+++++++++++++++++++++++++++++++===================================================
+1> datastage8.7 install
+
+2> db2 linux cluster
+3> hadoop hdfs map-reduce
+
+
+http://pic.dhe.ibm.com/infocenter/prodguid/v1r0/clarity-reports/report/html/softwareReqsForProduct?deliverableId=1267461078083&osPlatform=Windows
+
+datastage8.7 install 
+
+just like the datastage8.5 install on linux the file I have upload on QQ space 
+only one section need to speake out ,is that we nended to create user dsadm  ,but just
+use the operation system user(os),when try to comment the envirement change dsadm to os user
+
+1>
+After finished install the ds client will create 4 desktop 
+admin manager desgner direcotr 
+admin : used to create project and groable variables  express and so one 
+manager  : import or export the whole projects and backup and so on
+desgner  : user to developer ETL process
+director : minotor the jobs created in desgner 
+
+2>
+In our daily work we usually need the following jobs :
+Open one projects  we can see the follwong folders 
+for these we just Jobs and Table Definitions
+2.1>
+JObs
+Paralle Job \server Job and sequence job
+
+
+sequence job control process
+
+server job comman job
+paralle job  
+two basic types ofr
+
+
+========================================================================================================================
+why virtualize hadoop ? 
+1>by some products get our hadoop cluster in minutes
+2>consolidate sprawling clusters
+
+challenges to use hadoop in physical infrastructure 
+Deployment
+Difficult to deploy ,cost several people for several days even months
+Difficult to tune cluster performance 
+Low Efficiency
+Hadoop clusters are typically not 100% utilizded across all hardware resources
+Difficult to share resouces safely between different workload
+Single Point of Failure
+Single point of failure for Name Node and Job tracker
+No HA for Hive ,HCatalog ,etc.
+
+db2中建表语句中使用data capture none的意思与作用是？
+DATA CAPTURE NONE
+不在日志中为复制记录额外的信息（为缺省值）
+这个选项一般在数据库数据同步时使用，即使用DB2的Replication center复制数据，启用此选项后DB2会将这个工具所需要的一些信息写入日志文件。
+
+DB2 性能问题
+DB2数据库性能遇到瓶颈 一个存储过程执行时间特别长，分析如下：
+1> 一般先观察系统的资源使用情况 ，IO CPU MEMORY 等；
+2> 从DB2层面上分析DB2的几个大的指标: bufferpool ,排序溢出 ，锁升级/锁等待
+3> 插入 删除 更新都特别低 ，读很高，可能是因为全表扫描造成的。
+
+分类算法 : 
+
+
+任职资格：
+? 熟练编写Linux shell或perl或python 脚本解决日常问题 ；
+? 深刻理解hadoop框架的运行原理，具备hadoop环境搭建和开发经验，熟悉分布式数据库；
+? 团队配合能力强，能快速完成团队分配的任务，并主动与团队成员交流心得；
+? 熟练使用SQL语句及丰富的Hadoop建表和优化经验；
+? 熟练Java开发；具有商业项目开发经验；
+? 理解hadoop或任一种分布式并行计算产品的使用过程；如：MapReduce、Hive、Hbase、其他NoSQL数据库、Ganglia(支持硬盘IO监控)等任一种或多种。
+技能特长优先：（会以下1项或多项技能者优先）：
+? 熟练使用任一种“内存数据库”或者“列数据库”，并能够将它与Hadoop平台进行结合配置(Hbase除外)、且熟练使用；
+? 熟练使用Mahout的多种算法结合Hadoop平台进行多种数据挖掘分析，并能结合数据进行业务分析解说；
+? 熟练使用R语言及工具结合Hadoop平台进行多种数据挖掘分析，并能结合数据进行业务分析解说；
+? 能够熟练将Mahout的多种算法进行页面化改造的经验；
+? 熟练使用其他任一种能够与Hadoop结合运行的开源分布式数据挖掘工具(图形化工具)；
+? 分布式数据挖掘建模技能；
+? 三年以上工作经验，熟悉虚拟化技术、云计算相关领域内分布式计算理论、分布式数据库模型、分布式文件系统模型等相关知识原理；
+
+Hi shan 
+Here is the disk capacity estimation .our block size is 8k
+According to estimation it needs about 1.6G byte space ideally ,consideration
+bundled objects such as counter pk and fragment after insert/update
+
+we may need to space I can not estimate accurately but if we can alloicate if should be approriate thanks
+
+Thanks for your proactive work! but we don't need send our team internal communication to swgid_dw_support@wwpdl.vnet.ibm.com,
+we only need to send our action and result to this mail group, for example, you can send the content such as "we're handling
+this failure", or "the root cause is XXXX, job re-run succeeded".
+From Jeff.
+==================================================================================================================
+Task #183
+Notes://CAMDB07/8525691C004D9994/17C79477C5C5DACA852574040059A10F/4DBD0F297F2CDDFE85257BAC00060E45 
+Task #185
+
+
+
+quote_renwl_201308040200 error log, sql968   The file system is full. 
+drop\create error 
+
+If dummy.COUNT = 0 then  "Passed" else  If  Failed_Action = "Continue" Then "Warning" Else "Error"
+
+with temp as (
+SELECT  p.SW_SBSCRPTN_ID as SW_SBSCRPTN_ID, h.SRP_PRICE, h.PRICE_START_DATE 
+FROM WWPP2.V_CNTRY_PRICE_HIST h LEFT OUTER JOIN RSHR2.PROD_DIMNSN p ON h.PART_NUM = p.PART_NUM
+WHERE p.REVN_STREAM_CODE in ('ASMAINT', 'RNWMNTSP', 'ASRSSHWM', 'RSSHWM')
+AND h.CNTRY_CODE IN ('US', 'USA') 
+AND h.ISO_CURRNCY_CODE = 'USD' 
+AND h.SAP_DISTRIBTN_CHNL_CODE = 'A' 
+AND h.PRICE_TIME_FLAG = 'current'
+and h.SRP_PRICE != 0.0
+), 
+sub_id(SW_SBSCRPTN_ID,ord_num) as(
+select SW_SBSCRPTN_ID,row_number() over(order by SW_SBSCRPTN_ID) ord_num from
+(
+select SW_SBSCRPTN_ID,row_number() over(partition by SW_SBSCRPTN_ID) row_num from temp 
+)where row_num=2 fetch first 6 rows only
+),
+loop_value(ord_num,sub_id_list) as(
+select ord_num+1,cast( trim(SW_SBSCRPTN_ID) as varchar(2500)) from sub_id where ord_num =1 
+
+union all 
+
+select lv.ord_num+1 ,trim(lv.sub_id_list) ||',  ' ||trim(sd.SW_SBSCRPTN_ID) from sub_id sd,loop_value lv where sd.ord_num=lv.ord_num
+)
+select sub_id_list from loop_value lv where lv.ord_num=(select max(ord_num)+1 from sub_id)
+with ur;
+=======================================================================================================
+
+Coporation Subject :
+1.renewal project team room
+
+Here are the steps for using OneTEAM:
+Access OneTEAM via the logon page: https://w3-03.ibm.com/finance/access/AELogin.wss
+Use your IBM Intranet userid and password to gain access
+To Request Access to DSW Team Databases, follow the steps below:
+
+From the main OneTEAM page, select "Request Access" from the "Access Management" section in the right-side navigation.
+
+From the "Request Access" page, select "Corporate Headquarters".
+
+From the "Request Application Access" page, select   "DSW SWG/ID Team Databases"
+
+Accept the Terms
+Select  SWG BI Portal Teamroom
+Select Access level = Dynamometer Editor
+
+
+Hadoop，Hive，HBase，zookeeper,MapReduce 
+http://w3.tap.ibm.com/medialibrary/
+
+http://learning3.atlanta.ibm.com/hr/global/events/ems.nsf/pages/home 
+
+
+
+
+Personal Subject :
+
+1. 想一千次，不如去做一次，华丽地跌倒胜过无谓的徘徊！
+2. 不喧哗 自有声 鹤深鸣 义如山 情比肩 爱似绵 1+1<1
+3. http://www.qcenglish.com/ebook/904.html
+4. 以诚感人者，人亦诚而应
+5. 财务自由是实现中国梦的最佳实践。
+6. 不以善小而不为
+7. good counsel
+
+Notes:
+
+we check the source table's logic in job  Populate_Maintnc_Expird_Renwd_Fact_RMS
+
+And find it's true there is only table DWDM1.CRM_GEOGPHY_DIMNSN   user filter  gd.INACT_FLAG = 0 in join connection 
+So we needn't change the sqls   
+
+在数据库和数据仓库的征程上数据的分布有，建立分离的数据实例和数据库，建立同一实例下分离的数据库，建立相同实例和数据库下分离的模式。
+
+#$SYS_CODE#S#$APP_NAME#-:#Initialize_Param.V_PROJ_NAME# on #Initialize_Param.V_HOST_NAME# - #Initialize_Param.V_DB_NAME#: Recon process for Quote Rpt passed with success
+#$SYS_CODE#F#$APP_NAME#-:#Initialize_Param.V_PROJ_NAME# on #Initialize_Param.V_HOST_NAME# - #Initialize_Param.V_DB_NAME#: Recon process for Quote Rpt got errors
+#$SYS_CODE#F#$APP_NAME#-:#Initialize_Param.V_PROJ_NAME# on #Initialize_Param.V_HOST_NAME# - #Initialize_Param.V_DB_NAME#: Recon process for Quote Rpt got warnings
+
+一个XX系统 应该是由 业务应用程序，数据库，主机，存储等多方面组成。
+硬件 ：cpu ，内存，存储
+系统响应时间 吞吐量 可用性
+
+表和查询如何影响数据库服务器的总体性能
+表和分区的位置
+创建合理的索引和配置参数
+数据在磁盘上的分布是如何影响性能的
+存储的io设计，数据库的物理设计和逻辑设计，os的条带宽度和条带深度io读写方式
+
+MDC 数据库分区 MQT 和 表分区
+
+事实表 历史表
+查询性能
+插入大数据
+删除大数据
+
+市场持续疲软，攒钱等待ing
+=====================================================================
+精通：
+Datastage ETL 开发，
+Store procedure开发，
+SQL 性能优化，
+Informatic ETL开发。
+Unix Shell Script
+---------------------------------------------------------------------
+熟悉：
+数据仓库与数据集市设计
+Java 开发 
+Cognos 前端数据展现流程与开发
+英语交流
+---------------------------------------------------------------------
+了解：
+Hadoop，Hive，HBase，zookeeper,MapReduce
+日语三级
+Python 语言
+---------------------------------------------------------------------
+项目经验：
+
+1.IBM DSS 系统 ETL 开发与维护
+ Datastage+Store procedure
+ 
+
+
+2.江苏电信 data warehouse 系统 ETL 开发与维护
+ Informatic+Store procedure
+
+3.江苏电信 data warehouse 系统 数据质量 开发与维护
+ SQL + Store procedure
+ 
+ 730959
+
+4.苏州电信 风险管控系统
+ Java web 系统
+ --------------------------------------------------------------------
+ 对数据平台的搭建<构建强壮的监控体系>以及大数据的收集和应用及感兴趣
+ ====================================================================
+ 
+
+219.142.105.34:3510 xinghai passwd34u
+
+http://www.yuyongguanjia.com:8087/yygjmanage/
+
+
+http://www.yoyotuu.com/yygj/Index
+
+http://www.yuyongguanjia.com/yygj/Index
+
+http://211.149.189.196/redmine/projects/yygj/wiki/%E4%B8%8A%E7%BA%BF%E4%B9%8B%E5%90%8E%E4%BB%BB%E5%8A%A1%E5%88%86%E5%B7%A5
+
+
+
+http://211.149.189.196/redmine  yunxinghai 123123123
+
+
+证券
+1790273437
+
+
+
+
+------------------------------------------------------------------------
+Error of remote : compass2.austin.ibm.com
+compass2.austin.ibm.com 
+An authentication error has occurred .
+The local Security Authority cannot be contacted. 
+bids1503
+------------------------------------------------------------------------
+
+
+o79ubq0f
+temp4you
+bids1503
+
+Love is sacred in my mental.
+---------------------------------------------------------------------------------------
+
+Scaling Up Excellence
+Catastrophic Care: Why Everything We Think We Know About Health Care Is Wrong
+On the Edge: The Art of High-Impact Leadership
+Data Science for Business
+The Risk-Driven Business Model
+
+RTC 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Health check (db job script) 
+Notes://ltsgdb001b/8525691C004D9994/337CF1BB52269D5D85256297004E801D/18672249284755308525764E006DCAA3
+
+cd /home/zhangnb/chk_cmvc/bin_dss
+
+14.2 result:
+Notes://CAMDB07/8525691C004D9994/0000035F7480610585255D74006B9E95/30D77A54D4531D6B85257CD7003320C1
+
+
+Check target:
+=================
+DB objects: Run script to compare table, view, function, sp
+DS objects: 
+Unix scripts: Create CR
+------------------------------------------
+3zabbhxQ
+DSS track doc:
+Notes://CAMDB07/8525691C004D9994/337CF1BB52269D5D85256297004E801D/AF041A694B0F046285257CD70035BDC6
+
+FDW track doc:
+Notes://CAMDB07/8525691C004D9994/337CF1BB52269D5D85256297004E801D/18672249284755308525764E006DCAA3
+
+
+Info from BOB:
+=====================
+1. For DB compare: Pls log to CAMARO(b01aciapp070) DIR : /home/zhangnb/chk_cmvc/bin_dss/, there are 3 scripts for compare:
+
+chk_cmvc_FDW.sh :  Compare for FDW_PRODUCTION release
+chk_cmvc_SNS.sh:   Compare for SNS_PRODUCTION release
+chk_cmvc.sh:       Compare for DSS_PRODUCTION release
+.dss_profile:      This is the cfg file contains the DB information and CMVC information.
+
+You can run the compare scripts separately for each Release, or, you can run the script chk_all.sh, which will call the other compare scripts.
+
+ chk_cmvc.sh
+
+
+2. For Unix scripts compare: Here is the CR for Production compare: for each Quarter.
+Notes://CAMDB18/85255F51005C7D19/D0F2B18D06625FED8525727A00538040/3123E6E6A44E263285257C68000DF35F
+
+@swgcl2node1:/dss/unix_cmvc_compare/logs/> ls -lrt
+-rw-r--r--    1 dw_oper  dwoper         5935 May 13 02:45 comp_mail_rpt20140513024413
+-rw-r--r--    1 dw_oper  dwoper        12095 May 13 02:45 unix_cmvc_comp20140513024413.log
+-rw-r--r--    1 dw_oper  dwoper       117337 May 13 03:29 unix_cmvc_comp20140513032841.log
+-rw-r--r--    1 dw_oper  dwoper        72258 May 13 03:29 comp_mail_rpt20140513032841
+
+
+3. DS job compare:
+Notes://CAMDB07/8525691C004D9994/17C79477C5C5DACA852574040059A10F/4C9A8D135493773C85257A8400256E5A
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Ellen's DSW ODS Finance team we interact with frequently.
+
+Hi Dong:
+
+We interact with these BAs for corresponding area . Thanks!
+
+Anna vatman/North Reading/IBM focus on the requirement and draft design of release development. Most of the development requirements are come from her.  
+
+Victoria Chu/Westford/IBM, Barbara Riester/North Reading/IBM report some testing and production issues occasionally.
+
+BTW:
+Sergio Witzel Cavaleri/Brazil/IBM (report to Ellen as well) request Specific SBLIW Order load and some production issues frequently.
+
+Another BA Diane Leva/North Reading/IBM (from Barbara's team) focus on the data and Cognos testing. 
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+db2pad -
+hostname: b01cxnp27036.gho.pok.ibm.com
+instance: db2pad
+port: 60005
+DB - DSSPAD <10.5 BLU ACCELERATED> 
+
+db2 catalog tcpip node db2pad remote  b01cxnp27036.gho.pok.ibm.com server 60005
+db2 catalog db DSS as dsspad at node db2pad  
+db2 terminate 
+
+
+db2pan hostname:b01cxnp27036.gho.pok.ibm.com (directly login)  DB name - PARPT  port: 60001
+
+
+9.38.94.205   pathfinder.rochny.ibm.com
+
+dssreed
+db2 catalog tcpip node DB2REED remote  tracker.austin.ibm.com server 60094
+db2 catalog db DSS as DSSRREED at node DB2REED    
+
+db2 catalog tcpip node DB2PAGE remote b01acirdbha005.ahe.pok.ibm.com server 50002
+db2 catalog db DSSARC as DSSARC at node DB2PAGE  
+
+2)DB catalog info:
+db2 "catalog tcpip node AHEPAGE remote b01acirdbha005.ahe.pok.ibm.com server 50002"
+db2 "catalog db DSS as AHEDSS at node AHEPAGE"  
+
+db2 "catalog tcpip node AHEPODS remote b01acirdbha007.ahe.pok.ibm.com server 50020"
+db2 "catalog db ODS as AHEODS at node AHEPODS"  
+
+dssrood---- DSSROOD will be UAT for column based/Cognos
+column db  
+db2 catalog tcpip node db2rood remote tracker.austin.ibm.com server 60100
+db2 catalog db dss as dssrood at node db2rood 
+db2 terminate
+
+
+To get access to DSSPAD, for User collection data
+
+In  ITIM submit a request  to create a userid on :    b01cxnp27036.gho.pok.ibm.com
+
+Then , for QMF selects  to work , submit  another  ITIM request to add your userid to groups:  uc_spt, kwdev, fncl_spt
+
+ods production  
+
+db2 catalog tcpip node db2pad remote b01cxnp27036.gho.pok.ibm.com server 60005
+db2 catalog db DSS as DSSPAD at node db2pad 
+db2 terminate 
+
+  
+DSSPAD
+
+db2 catalog tcpip node DB2PODS remote b01acirdb085.ahe.pok.ibm.com server 50020
+db2 catalog db ODS as ODSP at node DB2PODS 
+db2 terminate 
+
+db2 catalog tcpip node DB2PANDA remote b01acirdb085.ahe.pok.ibm.com server 60028
+db2 catalog db DSS as DSSPANDA at node DB2PANDA  
+
+Note: the CMVC Support Site is: http://rtpscm20.gho.pok.ibm.com/
+
+The CMVC Forum is at: https://w3-connections.ibm.com/forums/html/forum?id=67f3dea2-b9fb-4f9c-b157-dbdda0a73043
+
+1300---5.07 
+
+
+--------------------------------------------------------------------------------------
+
+sed 's/s_db_name/#Source_DB_Name#/g;s/s_user/#Source_DB_User#/g;s/s_pwd/#Source_DB_Pwd#/g;s/s_table/#Source_Table_Name#/g;s/t_db_name/#Target_DB_Name#/g;s/t_user/#Target_DB_User#/g;s/t_pwd/#Target_DB_Pwd#/g;s/t_table/#Target_Table_Name#/g' /home/weisubj/test_replicate.sql > /home/weisubj/test_replication.sql.tmp
+
+
+db2 -td@ -f /home/weisubj/test_replication.sql.tmp; rm /home/weisubj/test_replication.sql.tmp;
+
+
+test_replicate.sql 
+
+connect to t_db_name user t_user using t_pwd
+@
+declare cur1 cursor DATABASE s_db_name USER s_user USING s_pwd for select * from s_table
+@
+load from cur1 of cursor WARNINGCOUNT 1000 replace into t_table nonrecoverable
+@
+
+---------------------------------------------------
+
+Account 
+:wireless bids1503
+
+SQL comments method :
+select 'a,a'  /*1111*/   from  sysibm.tables 
+
+RMS  logic from Ruth (RMS process flow)
+Notes://ltsgdb002e/85257751006DB0D8/344EC4724FC0D110852568250045F248/CD42ABF4DE8028C785257E3F0069F4AD :
+
+data flow from Jeff 
+
+
+The RMS target using source table from the traget sp 
+SODS2.MNGED_ENTMT
+SODS2.MNGED_ENTMT_ORD
+SODS2.MNGED_ENTMT_ORD_HW
+SODS2.SALES_ORD_LINE_ITEM
+FNCD1.REVN_AND_COST_DTL
+SODS2.SALES_ORD_BILLG_SCHDL
+                                                                                                       
+The RMS actl using source table from the actl sp                                                       
+FNCD1.REVN_AND_COST_DTL                                                                                
+SODS2.SALES_ORD_BILLG_SCHDL                                                                            
+			||                                                                                         
+			||                                                                                                             
+		  \ || /                                                                                                                                    RUN_SNS_DTL_SUM_FLAG(Batch::SNS_Process)
+            \/                                                                                          |--------------------------------------------------------------------------------------------------------------------------
+ ---------------------------------------------------------------------------------------------|         |                                                           Batch::SNS_DTL_SUM_Fact                                       |  
+(RMS TRGT  Batch::Load_Maintnc_Renwl_Fact_Trgt) <--8 hours                                    |         |                         |------------------------------------------------------------------------------------------|    | 
+DWDM1.MAINTNC_RENWL_FACT_TRGT-------------------\             (RMS final)                     |         |                         |       ACV final, ACV detail                                                              |    |
+                                                 -----DWDM1.MAINTNC_RENWL_TRGT_ACTL_FACT  ----|-->|     |                         |------>DWDM1.MAINTNC_EXPIRD_RENWD_FACT              (renewal sum)                         |    | 
+DWDM1.MAINTNC_RENWL_FACT_ACTL-------------------/ (Batch::Load_Maintnc_Renwl_Trgt_Actl_Fact)  |   |     |                         |       Batch::Load_Maintnc_Expird_Renwd_Fact --\------DWDM1.SNS_SUM_FACT                  |    |  
+(RMS actl Batch::Load_Maintnc_Renwl_Fact_Actl )                                               |   |     |                         |                                                \   / Batch::Load_SNS_Sum_Fact)---------  |----|----\  
+      \before run actl & final need to check uc process                                       |   |     |wait                     |                                                 \ /                                      |    |     \                                          
+----------------------------------------------------------------------------------------------|   |--|->|prod--->Dimnsn table---->|                                                  /                                       |    |      \
+(VRR expired)                                                                                     |  |  |cust                     |                                                 / \                                      |    |       ---Cube(Publish) 
+DWDM1.MAINTNC_EXPIRD_QTY----------------------\                                                   |  |  |                         |                                                /   \                                     |    |      /
+(Batch::Load_Maintnc_Expird_Qty)               \                                                  |  |  |                         |        VRR final, VRR detail                  /     \   (trgt sum)                       |    |     /
+                                                ------------------------------------------------->|  |  |                         |------> DWDM1.MAINTNC_EXPIRD_RENWD_QTY_FACT --/--------DWDM1.RENWLS_TRGT_SUM_FACT-------  |----|---/
+(VRR renewed)                                  /                                                     |  |                         |        Batch::Load_Maintnc_Expird_Renwd_Qty           Batch::Load_Renwls_Trgt_Sum_Fact   |    | 
+DWDM1.MAINTNC_RENWD_QTY-----------------------/                                                      |  |                         |------------------------------------------------------------------------------------------|    | 
+(Batch::Load_Maintnc_Renwd_Qty)              /                                                       |  |--------------------------------------------------------------------------------------------------------------------------  
+                                            /                                                        |                                              
+                    Dimnsn tables----------/                                                         |                                              
+            /\                                                                                       |                   
+		  / || \                                                                                     |                   
+		    ||                                                                                       |                   
+            ||                                                                                       |        
+VRR expired & renewed using source table :                                                          \|/        
+SODS2.MNGED_ENTMT                                                                                    |-->Batch::Sync_Prod_Cust_Dimnsn -----> wait prod cust  ---->  Batch::Load_SNS_Sum_Fact  ---->Batch::Load_Renwls_Trgt_Sum_Fact
+SODS2.MNGED_ENTMT_ORD                                                                                       
+SODS2.MNGED_ENTMT_ORD_HW                                                                                    
+                                                                                                        
+
+===================================================================================================================																										
+
+
+==============================================================================================================================
+2016-01-13
+The connector does not support data transfer in Unicode format. When writing column ACTL_DISPLAY_FLAG, Unicode data needs to be converted to UTF-8 which can cause data loss or corruption.
+================================================================================================
+2016-01-14
+10,20,30,40,50,0 * * * * /job_cntl/com/dba/refresh_mqt/refresh_mqt.sh db2page dsspage /db2_src/cfg/refreshmqt_mail_list >> /db2_src/db2clnt9/log/refresh_mqt.`date +'\%Y\%m\%d'`.log 2>&1 
+-----------------------------------------------------------------------------------------------------------------
+2016-01-20 create tablespace and indexspace 
+tracker[db2reed]/db2_src/db2reed > db2 -tvf crtts.s
+CREATE REGULAR TABLESPACE "UTOL_DATA_01" IN DATABASE PARTITION GROUP IBMDEFAULTGROUP PAGESIZE 32768 MANAGED BY DATABASE USING (DEVICE '/dev/rreed180_256' 8192, DEVICE '/dev/rreed182_256' 8192) EXTENTSIZE 32 PREFETCHSIZE 128 BUFFERPOOL "DATA32K" DATA TAG NONE OVERHEAD 12.500000 TRANSFERRATE 0.300000 NO FILE SYSTEM CACHING DROPPED TABLE RECOVERY ON
+DB20000I  The SQL command completed successfully.
+
+CREATE REGULAR TABLESPACE "UTOL_INDX_01" IN DATABASE PARTITION GROUP IBMDEFAULTGROUP PAGESIZE 32768 MANAGED BY DATABASE USING (DEVICE '/dev/rreed192_256' 8192) EXTENTSIZE 32 PREFETCHSIZE 128 BUFFERPOOL "INDX32K" DATA TAG NONE OVERHEAD 12.500000 TRANSFERRATE 0.300000 NO FILE SYSTEM CACHING DROPPED TABLE RECOVERY ON
+DB20000I  The SQL command completed successfully.
+
+==============================================================================================================
+alter table fncc2.DFRRD_REVN_FCST_FACT alter column DFRRD_REVN_FCST_FACT_ID drop identity
+alter table fncc2.DFRRD_REVN_FCST_FACT alter column DFRRD_REVN_FCST_FACT_ID set generated always as identity(start with 229363831,increment by 1,cache 20)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+00 06 * * * (umask 022; /dss/fdw/audit_trails/bin/audit_grant_report.ksh > /dss/fdw/audit_trails/log/audit_grant_`date '+\%Y\%m\%d\%H\%M'|tr -d '\\\'` 2>&1)
+00 06 * * * (umask 022; /dss/fdw/audit_trails/bin/audit_trails_report.ksh > /dss/fdw/audit_trails/log/audit_trails_`date '+\%Y\%m\%d\%H\%M'|tr -d '\\\'` 2>&1)
+00 01 01 * * (umask 022; /dss/fdw/audit_trails/bin/audit_trails_report_monthly.ksh > /dss/fdw/audit_trails/log/audit_trails_monthly_`date '+\%Y\%m\%d\%H\%M'|tr -d '\\\'` 2>&1)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cognos
+
+纬度 ：
+一个与业务相关的观察角度
+时间纬度： 年 季度  月 周 天 ----> 一个纬度可以有多层构成，一般不超过5 
+区域纬度： 地域 国家 办事处 销售员
+
+度量：
+用度量检测和评估企业成效
+销售额，成本，利润，库存量，交易数
+度量是业务量化的表示
+
+https://w3-03.ibm.com/finance/access/accessView.wss
+
+在fvt上
+sudo su - wassrvr
+cd /tmp/cube_builds/c102transmodels
+cd sw_sls
+sftp liuxuej@cogdev1.austin.ibm.com
+cd /tmp/cube_builds/c102transmodels/sw_sls
+get ss_bp.mdl
+get ss_no_cat.mdl
+get ss_no_cat_prior_week.mdl
+get historical_ss_no_cat.mdl
+bye
+chmod 777 ss.mdl
+chmod 777 ss_bp.mdl
+chmod 777 ss_no_cat.mdl
+chmod 777 ss_no_cat_prior_week.mdl
+chmod 777 historical_ss_no_cat.mdl  
+
+login DEV/FVT/UAT/PS/PROD to build cube:
+
+ssh liubo@cogdev1.austin.ibm.com via putty
+pwd: 1qaz2wsx
+ssh liubo@cogfvt1.austin.ibm.com via putty
+pwd: 1qaz2wsx
+ssh liubo@cogtest1.austin.ibm.com via putty
+pwd: 1qaz2wsx
+ssh liubo@cogps1.austin.ibm.com via putty
+pwd: 1qaz2wsx
+
+ssh wddong@cogdev1.austin.ibm.com via putty
+pwd: bb838215
+ssh wddong@cogfvt1.austin.ibm.com via putty
+pwd: bb838215
+ssh wddong@cogtest1.austin.ibm.com via putty
+pwd: bb838215
+ssh wddong@cogps1.austin.ibm.com via putty
+pwd: bb838215
+
+go to root:
+sudo su - wassrvr
+
+go to folder:
+cd /usr/cognos/c101trans/bin	//.sh file 10.1.1
+(DEV: /usr/cognos/c101trans/bin 把相应的cube 拷贝到 /usr/cognos/cubes_prod)
+cd /usr/cognos/c1021trans/bin	//.sh file 10.2.1
+cd /usr/cognos/cubes			//.mdc cube file
+cd /tmp/cube_builds/sw_sls		//.mdl file
+
+check the file:
+ls -l Ma*
+
+build cube:
+MasterBuildSSCube.sh manual
+MasterBuildSSBusPartnerCube.sh manual
+MasterBuildSSPriorWeekCube.sh manual
+MasterBuild_historical_ss_no_cat.sh manual
+
+cp ss_no_cat.mdl  ss.mdl
+cp ss_no_cat_prior_week.mdl ss_prior_week.mdl  
+
+SSH for DS server and cognos server : 2015-12-24 
+
+After the data is populated in database, we need to build the Cognos Cube. The following process is used to implement the automatic cube building.
+
+1. Cognos Server has a cron set up to check for a build flag every 5 minutes.
+2. After the data is ready, DataStage Server puts the build flag file to Cognos server
+3. If the build flag is set, Cognos Server kicks off a build and delete the build flag.
+4. Cognos Server generates a building result file after cube building is done.
+5. DataStage Server checks the building result file every 5 minutes.
+6. If DataStage Server finds the building result file, the whole process is completed.
+
+So the SSH between DataStage Server and Cognos Server is used to set/get the flag files to implement the above process.
+
+SSH Set up Process:
+
+Step 1. Use the account to run DS job to generate the public/private keys on DataStage Server
+
+Assuming the account is dswdwopr, the following is a sample. 
+
+ssh-keygen -t dsa
+cd /home/dswdwopr/.ssh
+chmod 600 id_dsa
+chmod 700 /home/dswdwopr/.ssh
+
+Step 2. Put the public key to Cognos Server
+
+Assuming the public key is id_dsa.pub and the account on Cognos server is latt, the following is a sample.
+
+cd /home/latt/.ssh
+cat id_dsa.pub >> authorized_keys
+chmod 600 authorized_keys
+chmod 700 /home/latt/.ssh
+
+This solution is a one-way connection. In other words, it only allows to access the remote server from DS server. So this way is safe for DS server. 
+
+An example from real CR :
+
+Set up the SSH keys using the dswdwopr between Eliminator and Cogtest1
+
+Step 1. Please use the account dswdwopr to complete the following on Eliminator
+
+ssh-keygen -t dsa
+cd /home/dswdwopr/.ssh
+chmod 600 id_dsa
+chmod 700 /home/dswdwopr/.ssh
+
+Step 2. Please send the /home/dswdwopr/.ssh/id_dsa.pub to Dave
+
+Dave, please complete the Step 3.
+
+Step 3. FTP the id_dsa.pub to cogtest1.austin.ibm.com using account latt. Put it in the folder /home/latt/.ssh
+
+cd /home/latt/.ssh
+cat id_dsa.pub >> authorized_keys
+chmod 600 authorized_keys
+chmod 700 /home/latt/.ssh
+
+
+Step 4. Do the testing using the account dswdwopr to logon etlbtdyn05
+
+sftp latt@cogtest1.austin.ibm.com
+
+Cognos  links 
+ Dispatchers:
+
+http://cogdev1.austin.ibm.com:9080/p2pd/servlet/dispatch/ext 
+http://cogfvt1.austin.ibm.com:9081/p2pd/servlet/dispatch/ext 
+http://cogtest1.austin.ibm.com:9081/p2pd/servlet/dispatch/ext 
+http://cogps1.austin.ibm.com:9081/p2pd/servlet/dispatch/ext 
+
+Gateways:
+http://cogdev1.austin.ibm.com:9081/software/pmxpt/servlet/Gateway 
+http://cogfvt1.austin.ibm.com:9085/software/pmxpt/servlet/Gateway 
+http://cogtest1.austin.ibm.com:9083/software/pmxpt/servlet/Gateway 
+http://cogps1.austin.ibm.com:9085/software/pmxpt/servlet/Gateway 
+
+drop folder and files(local computer)
+● c10_location/configuration/csk
+● c10_location/configuration/encryptkeypair
+● c10_location/configuration/signkeypair
+
+•Transformer
+制作多维模型
+•Framework Manager
+元数据模型开发
+•Query Studio
+即席查询
+•Report Studio
+专业报表制作
+•Analysis Studio
+多维分析
+
+
+Production: 
+
+https://w3-01.ibm.com/software/pmxpt/servlet/Gateway?b_action=xts.run&m=portal/cc.xts&m_folder=iF912240C392441AB93473559821B4430&refresh=
+
+S&S FM
+Cognos S&S Detail Package on Subscription Fact & VRR Fact
+Cognos S&S Appliance Detail Package - on Subscription Fact & VRR Fact
+Cognos S&S BP Detail Package - add to Business Partner Indirect Fact
+
+
+OPT0 FM
+Cognos S&S OPT0 Detail Package - on Subscription Fact & VRR Fact  
+2:53:05 PM
+Move and update following two packages from cognos DEV to Cognos FVT
+
+DEV: http://cogdev1.austin.ibm.com:9081/software/pmxpt/servlet/Gateway
+FVT: http://cogfvt1.austin.ibm.com:9085/software/pmxpt/servlet/Gateway
+
+Path:
+Public Folders ‎> Software Sales ‎> Software Sales - Packages‬
+
+Package Names:
+SWG SS Detail Package
+SWG SS PB Detail Package
+SWG SS with Appliance Detail Pkg
+SWG SS Detail Package_OPT0
+
+Dashboard example
+
+Public Folders ‎> Software Sales ‎> Software Sales - Reports ‎> Software Sales - Global Dashboard ‎> Dashboard - Resources ‎> Pages - Territories‬
+‪Public Folders ‎> Software Sales ‎> Software Sales - Reports ‎> Software Sales - Global Dashboard ‎> Software Territory Analysis Re
+
+Public Folders ‎> Software Sales ‎> Software Sales - Reports ‎> Software Sales - Global Dashboard ‎> Dashboard - S&S ‎> S&S Reports‬
+Public Folders ‎> Software Sales ‎> Software Sales - Reports ‎> Software Sales - Global Dashboard ‎> Dashboard - S&S ‎> S&S Business Partner‬
+Public Folders ‎> Software Sales ‎> Software Sales - Reports ‎> Software Sales - Global Dashboard ‎> Software Sales Subscription and Support Reports‬
+Public Folders ‎> Software Sales ‎> Software Sales - Reports ‎> Software Sales - Global Dashboard ‎> Software Sales Subscription and Support Reports ‎> SS Business Partner Reports‬
+
+
+
+Public Folders ‎> Software Sales ‎> Software Sales - Reports ‎> Software Sales - Global Dashboard ‎> Software Sales Subscription and Support Reports‬ 
+Public Folders ‎> Software Sales ‎> Software Sales - Reports ‎> Software Sales - Global Dashboard ‎> Dashboard - S&S ‎> S&S Reports‬
+
+
+IOT Performance
+	
+Public Folders ‎> Software Sales ‎> Software Sales - Reports ‎> Software Sales - Global Dashboard ‎> Software Sales Subscription and Support Reports ‎> IOT Performance
+	
+Report Properties
+
+----move packages from TEST to Production
+
+Steps:
+1.Export the following folders in TEST into one Zip file (Zipfile #1)
+
+NOTE : Please select the option to copy bluegroup permissions
+
+URL: http://cogtest1.austin.ibm.com:9083/software/pmxpt/servlet/Gateway
+
+Public Folders > Software Sales > Software Sales - Packages > SWG SS BP Detail Package
+Public Folders > Software Sales > Software Sales - Packages > SWG SS Detail Package
+Public Folders > Software Sales > Software Sales - Packages > SWG SS Detail Package_OPT0
+Public Folders > Software Sales > Software Sales - Packages > SWG SS with Appliance Detail Pkg
+
+2.Log in b01cxcp14046.gho.pok.ibm.com, b01cxcp11048.gho.pok.ibm.com, b01cxnp11049.gho.pok.ibm.com via putty
+sudo su - wassrvr
+cd /usr/cognos/c1021/deployment
+
+3.Executing following commands to copy exported files in step 1 from TEST to Production
+sftp yourID@cogtest1.austin.ibm.com
+cd /usr/cognos/c1021/deployment
+get ZipfileName.zip (Zipfile #1)
+bye
+chmod 777 ZipfileName.zip (Zipfile #1)
+
+4.Backup the following folders in Production via cognos connection
+
+URL: w3.ibm.com/software/pmxpt
+
+Public Folders > Software Sales > Software Sales - Packages > SWG SS BP Detail Package
+Public Folders > Software Sales > Software Sales - Packages > SWG SS Detail Package
+Public Folders > Software Sales > Software Sales - Packages > SWG SS Detail Package_OPT0
+Public Folders > Software Sales > Software Sales - Packages > SWG SS with Appliance Detail Pkg
+
+5. Import the Zip file in step 3 into Production via Cognos connection.
+URL: w3.ibm.com/software/pmxpt  
+
+6.Cognos Accounts
+The password for the below accounts was updated.
+
+dswimbac@us,ibm.com
+
+Regional Test ids
+dswimtem@us.ibm.com
+dswimtjp@us.ibm.com
+dswimtla@us.ibm.com
+dswimtap@us.ibm.com
+dswimtam@us.ibm.com
+
+PW = cognos123testing
+
+ 
+Pamela Leathers
+Ouote, Order & Entitlement Reporting
+Phone: 704-900-2053
+Tie Line: 623-7956
+pamela_leathers@us.ibm.com
+
+Entitlement 
+
+Internal reports
+Public Folders ‎> Software Sales ‎> DSW Entitlement Reports ‎> Reports‬
+External reports
+Public Folders ‎> Software Sales ‎> DSW Entitlement Reports ‎> Reports ‎> External
+
+----------------------------------------------------------------------------------------
+software download link
+https://w3-03.sso.ibm.com/FIM/sps/auth?FedName=openidsso&FedId=uuid86549b28-0142-18b5-91bf-86520029b15e
+https://g03aciwas054.ahe.boulder.ibm.com/software/xl/download/ticket.wss
+
+
+HBase权威指南 高清中文版 PDF 百度云盘下载： http://pan.baidu.com/s/1i3uwFaP
+
+或者：
+
+------------------------------------------分割线------------------------------------------
+
+FTP地址：ftp://ftp1.linuxidc.com
+
+用户名：ftp1.linuxidc.com
+
+密码：www.linuxidc.com
+
+在 2014年LinuxIDC.com\11月\HBase权威指南 高清中文版 PDF
+
+下载方法见 http://www.linuxidc.com/Linux/2013-10/91140.htm
+
+Please submit your next week working hours (July 16 - July 22)
+https://tapintofeb.victoria.ibm.com/forms/secure/org/app/3cec151b-bcbf-4d80-8deb-490719c9fd8f/launch/index.html?form=F_Form1
+
+
+
+
+
+
+-----------------------------------------------------------------------
+@b01aciapp071:dsadm:/home/dsadm/> crontab -l|grep ODS
+#ODS
+05,10,15,20,25,30,35,40,45,50,55 * * * * /app_logs/LogsOnDemand/Scripts/get_summary_logs.sh ODS
+05,10,15,20,25,30,35,40,45,50,55 * * * * /app_logs/LogsOnDemand/Scripts/get_detail_logs.sh ODS
+05,10,15,20,25,30,35,40,45,50,55 * * * * /app_logs/LogsOnDemand/Scripts/get_report_log_basic.sh ODS
+40 15 * * * cat /opt/IBM/InformationServer/Server/Projects/ODS/DSParams|mailx -s "ODS/DSParams" "swgidaccounts@lotus.com"
+00 10 4 * * /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::Load_LPP 0/50/1/0/0/0 1 >/dev/null 2>&1 #DSjobDS DSJ.ODS.57.1
+00 13 4 * * /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::Lpp_Excptn_Rpt 0/50/1/0/0/0 4 >/dev/null 2>&1 #DSjobDS DSJ.ODS.79.4
+00 10 5 * * /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::Load_Lpp_Sap 0/50/1/0/0/0 1 >/dev/null 2>&1 #DSjobDS DSJ.ODS.62.1
+30 10 5 * * /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::Load_Lpp_Web 0/50/1/0/0/0 2 >/dev/null 2>&1 #DSjobDS DSJ.ODS.64.2
+00 10 7 * * /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::Load_LPP 0/50/1/0/0/0 2 >/dev/null 2>&1 #DSjobDS DSJ.ODS.57.2
+00 13 7 * * /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::Lpp_Excptn_Rpt 0/50/1/0/0/0 5 >/dev/null 2>&1 #DSjobDS DSJ.ODS.79.5
+
+00 07 * * 1,2,3,4,5,0 /opt/IBM/InformationServer/Server/Projects/MAT_XAAS_Integration/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/MAT_XAAS_Integration /opt/IBM/InformationServer/Server/DSEngine DIGICOM_SE_SEQ_ODS_JAVA 0/0/1/0/0/0 1 >/dev/null 2>&1 #DSjobDS DSJ.MAT_XAAS_Integration.18.1
+
+00 08 * * 6 /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::MEOD_Validation 0/50/1/0/0/0 3 >/dev/null 2>&1 #DSjobDS DSJ.ODS.83.3
+00 08 * * 6 /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::ESRSC_Validation 0/50/1/0/0/0 5 >/dev/null 2>&1 #DSjobDS DSJ.ODS.3.5
+00 08 * * 6 /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::ME1_Validation 0/50/1/0/0/0 5 >/dev/null 2>&1 #DSjobDS DSJ.ODS.80.5
+00 13 * * 6 /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::MEDF_CleanUp 0/50/1/0/0/0 2 >/dev/null 2>&1 #DSjobDS DSJ.ODS.324.2
+00 02 * * 0 /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::Meod_CleanUp 0/50/1/0/0/0 2 >/dev/null 2>&1 #DSjobDS DSJ.ODS.311.2
+00 08 * * 6 /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::MEDF_Validation 0/50/1/0/0/0 5 >/dev/null 2>&1 #DSjobDS DSJ.ODS.81.5
+
+00 08 * * 1,2,3,4,5,6,0 /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::DMT_Incr 0/50/1/0/0/0 1 >/dev/null 2>&1 #DSjobDS DSJ.ODS.334.1
+00 12 * * 1,2,3,4,5,6,0 /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::DMT_Incr 0/50/1/0/0/0 2 >/dev/null 2>&1 #DSjobDS DSJ.ODS.334.2
+00 16 * * 1,2,3,4,5,6,0 /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::DMT_Incr 0/50/1/0/0/0 3 >/dev/null 2>&1 #DSjobDS DSJ.ODS.334.3
+
+00 02 * * 1,2,3,4,5,6,0 /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::Load_Evolution_Fact 0/50/1/0/0/0 9 >/dev/null 2>&1 #DSjobDS
+
+
+
+
+@b01aciapp072:/home/dsadm/> crontab -l|grep ODS
+00 04 * * 1,2,3,4,5,6,0 /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2 /opt/IBM/InformationServer/Server/DSEngine seq_XaaSToODS_Contacts_Loop.04 0/50/1/0/0/0/0/MediumPriorityJobs 1 >/dev/null 2>&1 #DSjobDS DSJ.MAT_Flowchart_Integration_V2.255.1
+00 16 * * 1,2,3,4,5,6,0 /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2 /opt/IBM/InformationServer/Server/DSEngine seq_XaaSToODS_Contacts_Loop.16 0/50/1/0/0/0/0/MediumPriorityJobs 2 >/dev/null 2>&1 #DSjobDS DSJ.MAT_Flowchart_Integration_V2.255.2
+00 10 * * 1,2,3,4,5,6,0 /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2 /opt/IBM/InformationServer/Server/DSEngine seq_XaaSToODS_Contacts_Loop.10 0/50/1/0/0/0/0/MediumPriorityJobs 3 >/dev/null 2>&1 #DSjobDS DSJ.MAT_Flowchart_Integration_V2.255.3
+00 22 * * 1,2,3,4,5,6,0 /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2 /opt/IBM/InformationServer/Server/DSEngine seq_XaaSToODS_Contacts_Loop.22 0/50/1/0/0/0/0/MediumPriorityJobs 4 >/dev/null 2>&1 #DSjobDS DSJ.MAT_Flowchart_Integration_V2.255.4
+00 05 * * 1,2,3,4,5,6,0 /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2 /opt/IBM/InformationServer/Server/DSEngine seq_XaaSToODS_Subscription_Loop.05 0/50/1/0/0/0/0/MediumPriorityJobs 1 >/dev/null 2>&1 #DSjobDS DSJ.MAT_Flowchart_Integration_V2.260.1
+00 11 * * 1,2,3,4,5,6,0 /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2 /opt/IBM/InformationServer/Server/DSEngine seq_XaaSToODS_Subscription_Loop.11 0/50/1/0/0/0/0/MediumPriorityJobs 2 >/dev/null 2>&1 #DSjobDS DSJ.MAT_Flowchart_Integration_V2.260.2
+00 17 * * 1,2,3,4,5,6,0 /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2 /opt/IBM/InformationServer/Server/DSEngine seq_XaaSToODS_Subscription_Loop.17 0/50/1/0/0/0/0/MediumPriorityJobs 3 >/dev/null 2>&1 #DSjobDS DSJ.MAT_Flowchart_Integration_V2.260.3
+00 23 * * 1,2,3,4,5,6,0 /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2 /opt/IBM/InformationServer/Server/DSEngine seq_XaaSToODS_Subscription_Loop.23 0/50/1/0/0/0/0/MediumPriorityJobs 4 >/dev/null 2>&1 #DSjobDS DSJ.MAT_Flowchart_Integration_V2.260.4
+30 00 * * 1,2,3,4,5,6,0 /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2 /opt/IBM/InformationServer/Server/DSEngine seq_Fiberlink_to_ODS_Loop.0030 0/50/1/0/0/0/0/MediumPriorityJobs 1 >/dev/null 2>&1 #DSjobDS DSJ.MAT_Flowchart_Integration_V2.289.1
+30 06 * * 1,2,3,4,5,6,0 /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2 /opt/IBM/InformationServer/Server/DSEngine seq_Fiberlink_to_ODS_Loop.0630 0/50/1/0/0/0/0/MediumPriorityJobs 2 >/dev/null 2>&1 #DSjobDS DSJ.MAT_Flowchart_Integration_V2.289.2
+30 12 * * 1,2,3,4,5,6,0 /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2 /opt/IBM/InformationServer/Server/DSEngine seq_Fiberlink_to_ODS_Loop.1230 0/50/1/0/0/0/0/MediumPriorityJobs 3 >/dev/null 2>&1 #DSjobDS DSJ.MAT_Flowchart_Integration_V2.289.3
+30 18 * * 1,2,3,4,5,6,0 /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/MAT_Flowchart_Integration_V2 /opt/IBM/InformationServer/Server/DSEngine seq_Fiberlink_to_ODS_Loop.1830 0/50/1/0/0/0/0/MediumPriorityJobs 4 >/dev/null 2>&1 #DSjobDS DSJ.MAT_Flowchart_Integration_V2.289.4
+00 18 19 * * /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::Load_Generic_EC_Fact 0/50/1/0/0/0/0/MediumPriorityJobs 1 >/dev/null 2>&1 #DSjobDS DSJ.ODS.7.1
+00 19 19 * * /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::Load_EC_Cust_Last_Purchd_Hist_Fact 0/50/1/0/0/0/0/MediumPriorityJobs 1 >/dev/null 2>&1 #DSjobDS DSJ.ODS.5.1
+00 02 * * 1,2,3,4,5,6,0 /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::Load_Customer_Dimnsn 0/50/1/0/0/0/0/MediumPriorityJobs 7 >/dev/null 2>&1 #DSjobDS DSJ.ODS.17.7
+30 05 * * 1,2,3,4,5,6,0 /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::Load_Customer_Dimnsn 0/50/1/0/0/0/0/MediumPriorityJobs 8 >/dev/null 2>&1 #DSjobDS DSJ.ODS.17.8
+00 01 * * 1,2,3,4,5,6,0 /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::Pricing_Analysis_Brand_Update 0/50/1/0/0/0/0/MediumPriorityJobs 1 >/dev/null 2>&1 #DSjobDS DSJ.ODS.22.1
+05,10,15,20,25,30,35,40,45,50,55 * * * * /app_logs_2/LogsOnDemand/Scripts/get_detail_logs.sh ODS
+00 19 * * 1,2,3,4,5,6,0 /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::Load_Sbscrptn_Agrmt_Tcv_Dtl 0/50/1/0/0/0/0/MediumPriorityJobs 1 >/dev/null 2>&1 #DSjobDS DSJ.ODS.124.1
+
+00 08 * * 6 /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::ESRSC_Validation 0/50/1/0/0/0/0/MediumPriorityJobs 6 >/dev/null 2>&1 #DSjobDS DSJ.ODS.31.6
+00 08 * * 6 /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::ME1_Validation 0/50/1/0/0/0/0/MediumPriorityJobs 6 >/dev/null 2>&1 #DSjobDS DSJ.ODS.45.6
+00 08 * * 6 /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::MEDF_Validation 0/50/1/0/0/0/0/MediumPriorityJobs 7 >/dev/null 2>&1 #DSjobDS DSJ.ODS.47.7
+00 08 * * 6 /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::MEDF_Validation 0/50/1/0/0/0 5                      >/dev/null 2>&1 #DSjobDS DSJ.ODS.81.5
+00 08 * * 6 /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::MEOD_Validation 0/50/1/0/0/0/0/MediumPriorityJobs 5 >/dev/null 2>&1 #DSjobDS DSJ.ODS.51.5
+00 13 * * 6 /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::MEDF_CleanUp 0/50/1/0/0/0/0/MediumPriorityJobs 3 >/dev/null 2>&1 #DSjobDS DSJ.ODS.46.3
+00 02 * * 0 /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::Meod_CleanUp 0/50/1/0/0/0/0/MediumPriorityJobs 3 >/dev/null 2>&1 #DSjobDS DSJ.ODS.48.3
+
+
+
+00 06 * * 1,2,3,4,5,6,0 /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::Load_Contact_Dimnsn 0/50/1/0/0/0/0/MediumPriorityJobs 2 >/dev/null 2>&1 #DSjobDS DSJ.ODS.133.2
+05 00 * * 1,2,3,4,5,6,0 /opt/IBM/InformationServer/Server/Projects/ODS/dsr_sched.sh /opt/IBM/InformationServer/Server/Projects/ODS /opt/IBM/InformationServer/Server/DSEngine Batch::Prod_Dimnsn 0/50/1/0/0/0/0/MediumPriorityJobs 6 >/dev/null 2>&1 #DSjobDS DSJ.ODS.134.6  
+
+what we need to learn durning the period of bigdata
+1.Language 
+SQL ,Python ,Shell ,Scala, Java 
+2.Tool or Framework(Real-time computing & offline computing)
+Hive,Spark(sql & streaming) ,Hadoop,...
+3.Theory Knowledge
+Concept of DataWarehouse,data model
+4.ML(AI)
+5.Web knowledge(js)
+
+
+
+GRANT SELECT ON  ENTL2.Entitlement_Summary_SmartCare TO GROUP ENT_SMTCARE
+
+
